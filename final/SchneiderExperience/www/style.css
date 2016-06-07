@@ -1,0 +1,174 @@
+
+html {
+      font-family: sans-serif;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+}
+body {
+      margin: 0;
+      background-color: #ffffff;
+      color: #898989;
+}
+
+h2 {
+      font-weight: 600;
+      font-size:35px;
+      color: #c62828;
+      margin-left: 10px;
+}
+
+.control-label {
+      width: 100%;
+}
+
+h5 {
+      font-weight: bold;
+      font-size:15px;
+      color: #898989;;
+      text-align: center;
+      width: auto;
+      margin-bottom: 3px;
+}
+
+.selectize-input.focus {
+      border-color: #cccccc;
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(211, 211, 211, 0.7);
+}
+
+.form-control:focus {
+      border-color: #cccccc;
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(211, 211, 211, 0.7);
+}
+
+.btn.active:focus {
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(211, 211, 211, 0.7);
+      outline: 5px auto rgba(211, 211, 211, 0.7);
+}
+
+.btn:focus {
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(211, 211, 211, 0.7);
+      outline: 5px auto rgba(211, 211, 211, 0.7);      
+}
+
+
+#genres > .shiny-options-group > .checkbox-inline {
+      width: 90px;
+}
+#genres > .shiny-options-group > .checkbox-inline+.checkbox-inline {
+      margin-left: 0;
+}
+/*
+#mpaas > .shiny-options-group > .checkbox-inline+.checkbox-inline {
+      margin-left: 35px;
+}
+
+#oscars > .shiny-options-group > .checkbox-inline+.checkbox-inline {
+      margin-left: 15px;
+}
+*/
+
+
+.col-sm-12 {
+      height: 60vh;
+}
+
+
+.col-sm-8 {
+      height: 20vh;
+      margin-top: 30px;
+}
+
+#genres > .shiny-options-group > .checkbox {
+      width: 87px;
+}
+
+#mpaas > .shiny-options-group > .checkbox-inline {
+      width: 70px;
+}
+
+
+#oscars > .shiny-options-group > .checkbox-inline {
+      width: 70px;
+}
+
+.checkbox-inline+.checkbox-inline {
+      margin-left: 0;
+}
+
+.container-fluid {
+      margin-right: 35px;
+}
+
+.ggvis-output-container {
+      margin-top: 25px;
+      margin-left: 35px;
+}
+
+.controlPanel > .col-sm-4 > .well {
+      margin-left: 50px;
+}
+
+.well {
+      background-color: #ffffff;
+      color: #898989;
+      border: none;
+      box-shadow: none;
+}
+
+.well > span {
+      font-size: 20px;
+}
+
+.col-sm-8 > span {
+      margin-left: 60px;
+      margin-top: 20px;
+      font-size: 17px;
+      font-weight: 400;
+      color: #898989;
+}
+
+#bars-container {
+      margin-top: 10px;
+      height: 300px;
+}
+
+.irs-bar {
+      background: #1565c0;
+}
+
+.irs-to {
+      background: #1565c0;
+}
+
+.irs-from {
+      background: #1565c0;
+}
+
+#rob {
+      color:#ffffff;
+      background-color:#c62828;
+      border-color:#c62828;
+      height: auto;
+      width: auto;
+      font-size: 25px;
+      font-weight: 500;
+}
+
+.titleText {
+      font-weight: bold;
+      text-decoration: underline;
+}
+
+#nmovies, #r_ab, #r_cb, #r_ac {
+      font-weight: bold;
+}
+
+#mtitle {
+      font-weight: bold;
+}
+
+#msd {
+      font-weight: bold;
+}
+
+
