@@ -48,9 +48,6 @@ shinyServer(function(input, output) {
         minyear <- input$year[1]
         maxyear <- input$year[2]
         
-        mintheaters <- input$theaters[1]
-        maxtheatres <- input$theaters[2]
-        
         genres <- input$genres
         mpaas  <- input$mpaas
         oscars <- input$oscars
@@ -61,7 +58,6 @@ shinyServer(function(input, output) {
                            metascore >= minmetascore & metascore <= maxmetascore,
                            gross    >= mingross    & gross    <= maxgross,
                            year     >= minyear     & year     <= maxyear,
-                           theaters >= mintheaters & theaters <= maxtheatres,
                            apply(as.matrix(minfo$genres), 1, function(x) 
                                length(intersect(unlist(strsplit(x, split = ",")), input$genres))) > 0,
                            apply(as.matrix(minfo$mpaarating), 1, function(x) 

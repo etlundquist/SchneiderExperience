@@ -4,16 +4,15 @@
 import os 
 from bs4            import BeautifulSoup 
 from urllib.request import urlopen
-rootdir = "/Users/elundquist/Documents/Assignments/Data Visualization/project"
+rootdir = "/Users/elundquist/Repositories/SchneiderExperience"
 
 # define a function to get the top 100 movies for each year
 #----------------------------------------------------------
 
-years = list(range(2000, 2016))
-pnums = [1, 2]
+pnums = [1]
 mlist = []
 
-for year in years:
+for year in range(2000, 2017):
     for pnum in pnums:
         
         url = "http://www.boxofficemojo.com/yearly/chart/?page={0}&view=releasedate&view2=domestic&yr={1}&p=.htm".format(pnum, year)

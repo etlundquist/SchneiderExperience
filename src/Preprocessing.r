@@ -1,6 +1,6 @@
 library(dplyr)
 library(stringr)
-setwd('~/Documents/Assignments/Data Visualization/project')
+setwd('~/Repositories/SchneiderExperience')
 
 # prepare the MovieInfo dataset for analysis
 #-------------------------------------------
@@ -28,6 +28,7 @@ for (genre in names(genrefreq[13:length(genrefreq)])) {
 
 table(minfo$mpaarating)
 minfo$mpaarating[minfo$mpaarating == "PG-"]   <- "PG"
+minfo$mpaarating[minfo$mpaarating == "d"]     <- "PG-13"
 minfo$mpaarating[minfo$mpaarating == "13"]    <- "PG-13"
 minfo$mpaarating[minfo$mpaarating == "NC-17"] <- "R"
 table(minfo$mpaarating)
@@ -97,7 +98,7 @@ saveRDS(awards, 'final/SchneiderExperience/data/awards.rds')
 streaming <- read.delim('raw/Streaming.txt', header = TRUE, sep = '|', stringsAsFactors = FALSE, colClasses = c(imdbid = "character"))
 str(streaming); head(streaming); summary(streaming)
 
-streaming <- distinct(streaming, imdbid)
+streaming <- distinct(streaming, imdbid, .keep_all = TRUE)
 streaming <- left_join(distinct(select(minfo, imdbid)), streaming, by = 'imdbid')
 
 streaming$amazon[is.na(streaming$amazon)]   <- 0

@@ -1,5 +1,6 @@
 import os
 import re
+import time
 import requests
 import pandas as pd
 
@@ -12,9 +13,11 @@ i = 0
 for mid in mids:
 
     qparams  = {'i': "tt" + mid, 'r': 'json'}
-    response = requests.get('http://www.omdbapi.com', params = qparams).json()
+    response = requests.get('http://www.omdbapi.com', params = qparams)
     
     if response:
+
+        response = response.json()
         
         if re.match(r'^Nominated for [0-9]+ Oscar(s)?', response['Awards'], re.I): 
             awards['oscars'].append('nom')
@@ -31,6 +34,8 @@ for mid in mids:
             
     else:
         print("Couldn't Find Movie: {0}".format(mid))
+
+    time.sleep(0.5)
     i += 1
     
 awards = pd.DataFrame(awards)

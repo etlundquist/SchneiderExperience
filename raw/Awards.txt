@@ -8,10 +8,10 @@ Nominated for 2 Oscars. Another 4 wins & 24 nominations.|0177971|nom
 Nominated for 1 Oscar. Another 7 wins & 14 nominations.|0212338|nom
 13 wins & 26 nominations.|0120903|none
 7 wins & 5 nominations.|0175142|none
-4 wins & 5 nominations.|0161081|none
+5 wins & 5 nominations.|0161081|none
 4 wins & 20 nominations.|0130623|none
 Won 4 Oscars. Another 95 wins & 127 nominations.|0190332|won
-Won 1 Oscar. Another 31 wins & 57 nominations.|0195685|won
+Won 1 Oscar. Another 31 wins & 58 nominations.|0195685|won
 13 wins & 27 nominations.|0160127|none
 Won 4 Oscars. Another 69 wins & 83 nominations.|0181865|won
 2 wins & 12 nominations.|0144528|none
@@ -20,13 +20,13 @@ Won 4 Oscars. Another 69 wins & 83 nominations.|0181865|won
 Nominated for 3 Oscars. Another 8 wins & 18 nominations.|0187393|nom
 Nominated for 1 Golden Globe. Another 23 wins & 26 nominations.|0120630|none
 Nominated for 2 Golden Globes. Another 7 wins & 5 nominations.|0212346|none
-6 wins & 5 nominations.|0187078|none
+7 wins & 5 nominations.|0187078|none
 2 wins & 12 nominations.|0217869|none
 2 wins & 4 nominations.|0183505|none
 Nominated for 1 Oscar. Another 4 wins & 6 nominations.|0186566|nom
 Nominated for 1 Oscar. Another 8 wins & 27 nominations.|0120917|nom
 5 wins & 5 nominations.|0134084|none
-Won 1 Oscar. Another 2 wins & 10 nominations.|0141926|won
+Won 1 Oscar. Another 3 wins & 10 nominations.|0141926|won
 2 wins & 7 nominations.|0213203|none
 4 wins & 6 nominations.|0218967|none
 Nominated for 1 Oscar. Another 7 wins & 9 nominations.|0164052|nom
@@ -91,107 +91,29 @@ Won 1 Golden Globe. Another 4 wins & 14 nominations.|0171580|none
 1 win & 7 nominations.|0120913|none
 Nominated for 3 Oscars. Another 54 wins & 63 nominations.|0249462|nom
 N/A|0204175|none
-13 wins & 3 nominations.|0185183|none
+14 wins & 3 nominations.|0185183|none
 1 win & 1 nomination.|0192731|none
 1 win & 3 nominations.|0186975|none
 Won 1 Oscar. Another 19 wins & 46 nominations.|0185014|won
 Nominated for 1 Golden Globe. Another 11 wins & 13 nominations.|0218839|none
-1 nomination.|0245280|none
-Nominated for 2 Oscars. Another 1 win & 20 nominations.|0208874|nom
-1 nomination.|0199753|none
-Nominated for 1 Golden Globe. Another 1 win & 3 nominations.|0196216|none
-1 win.|0210616|none
-1 win & 9 nominations.|0181984|none
-1 nomination.|0160484|none
-2 nominations.|0205461|none
-1 win.|0213749|none
-1 nomination.|0217630|none
-Nominated for 1 Golden Globe. Another 1 win & 13 nominations.|0149624|none
-1 nomination.|0186045|none
-N/A|0211938|none
-4 nominations.|0190374|none
-5 wins & 8 nominations.|0144084|none
-3 wins & 9 nominations.|0156841|none
-3 nominations.|0208988|none
-N/A|0134983|none
-1 nomination.|0213790|none
-1 win & 3 nominations.|0192255|none
-1 win.|0177240|none
-3 nominations.|0205271|none
-1 win.|0198386|none
-N/A|0144964|none
-1 nomination.|0217756|none
-Nominated for 1 Golden Globe. Another 4 wins & 8 nominations.|0195234|none
-8 nominations.|0219699|none
-2 nominations.|0195778|none
-1 win & 1 nomination.|0219952|none
-1 win.|0255198|none
-N/A|0199290|none
-N/A|0259974|none
-Nominated for 2 Oscars. Another 30 wins & 41 nominations.|0203230|nom
-3 nominations.|0202402|none
-Won 1 Oscar. Another 2 wins & 9 nominations.|0183659|won
-Nominated for 2 Oscars. Another 14 wins & 23 nominations.|0189998|nom
-Nominated for 3 Oscars. Another 18 wins & 41 nominations.|0180073|nom
-N/A|0156323|none
-7 wins & 8 nominations.|0120202|none
-2 nominations.|0167203|none
-1 nomination.|0181151|none
-N/A|0202677|none
-N/A|0149367|none
-N/A|0163676|none
-3 nominations.|0176783|none
-2 nominations.|0206420|none
-1 nomination.|0134630|none
-1 win & 1 nomination.|0234853|none
-Nominated for 1 Oscar. Another 15 wins & 20 nominations.|0247196|nom
-Nominated for 1 Oscar. Another 33 wins & 45 nominations.|0168629|nom
-1 win.|0198438|none
-1 nomination.|0174336|none
-Nominated for 1 Oscar. Another 32 wins & 61 nominations.|0180093|nom
-Nominated for 2 Oscars. Another 6 wins & 15 nominations.|0213847|nom
-1 win & 2 nominations.|0188160|none
-2 nominations.|0210567|none
-Nominated for 1 BAFTA Film Award. Another 6 wins & 28 nominations.|0200720|none
-2 nominations.|0141399|none
-N/A|0153464|none
-N/A|0238247|none
-N/A|0263300|none
-1 win & 9 nominations.|0215545|none
-3 nominations.|0180837|none
-1 win & 1 nomination.|0222850|none
-N/A|0171356|none
-1 win & 2 nominations.|0171359|none
-15 wins & 16 nominations.|0210075|none
-2 nominations.|0173716|none
-1 win & 2 nominations.|0196106|none
-1 nomination.|0216772|none
-N/A|0251739|none
-1 nomination.|0259207|none
-1 win.|0217107|none
-13 wins & 21 nominations.|0244316|none
-2 nominations.|0212974|none
-N/A|0193854|none
-11 wins & 22 nominations.|0213890|none
-2 nominations.|0220100|none
 Nominated for 3 Oscars. Another 17 wins & 60 nominations.|0241527|nom
-Won 4 Oscars. Another 108 wins & 121 nominations.|0120737|won
+Won 4 Oscars. Another 108 wins & 122 nominations.|0120737|won
 Won 1 Oscar. Another 37 wins & 59 nominations.|0126029|won
 Won 1 Oscar. Another 13 wins & 38 nominations.|0198781|won
-10 wins & 22 nominations.|0266915|none
+10 wins & 21 nominations.|0266915|none
 4 wins & 17 nominations.|0209163|none
-Won 1 Oscar. Another 10 wins & 50 nominations.|0213149|won
+Won 1 Oscar. Another 11 wins & 50 nominations.|0213149|won
 4 wins & 20 nominations.|0240772|none
 5 wins & 13 nominations.|0163025|none
 Nominated for 2 BAFTA Film Awards. Another 10 wins & 25 nominations.|0133152|none
-Won 4 Oscars. Another 32 wins & 63 nominations.|0268978|won
+Won 4 Oscars. Another 33 wins & 63 nominations.|0268978|won
 7 wins & 15 nominations.|0212985|none
 8 wins & 6 nominations.|0252866|none
 9 wins & 12 nominations.|0232500|none
-3 wins & 15 nominations.|0146316|none
+4 wins & 15 nominations.|0146316|none
 2 wins & 6 nominations.|0240462|none
 2 wins & 10 nominations.|0227538|none
-Won 2 Oscars. Another 7 wins & 37 nominations.|0265086|won
+Won 2 Oscars. Another 8 wins & 37 nominations.|0265086|won
 2 wins & 11 nominations.|0247638|none
 Nominated for 1 Oscar. Another 4 wins & 33 nominations.|0259711|nom
 Nominated for 1 Golden Globe. Another 28 wins & 50 nominations.|0230600|none
@@ -212,15 +134,15 @@ Nominated for 1 Oscar. Another 8 wins & 29 nominations.|0243155|nom
 3 wins & 1 nomination.|0236493|none
 3 nominations.|0231775|none
 3 nominations.|0266987|none
-1 win & 6 nominations.|0209475|none
+2 wins & 6 nominations.|0209475|none
 1 win & 2 nominations.|0159273|none
 Nominated for 2 Oscars. Another 10 wins & 25 nominations.|0248667|nom
 5 nominations.|0255798|none
-Won 2 Oscars. Another 81 wins & 130 nominations.|0203009|won
+Won 2 Oscars. Another 83 wins & 130 nominations.|0203009|won
 3 nominations.|0250687|none
 4 wins & 10 nominations.|0183790|none
 1 nomination.|0260866|none
-1 win & 9 nominations.|0221027|none
+2 wins & 9 nominations.|0221027|none
 Nominated for 1 Oscar. Another 10 wins & 45 nominations.|0265666|nom
 3 nominations.|0242445|none
 3 nominations.|0215750|none
@@ -229,7 +151,7 @@ Nominated for 1 Oscar. Another 10 wins & 45 nominations.|0265666|nom
 Nominated for 1 Oscar. Another 1 win & 4 nominations.|0035423|nom
 1 win & 3 nominations.|0249478|none
 1 win & 10 nominations.|0196229|none
-4 nominations.|0267804|none
+1 win & 1 nomination.|0184791|none
 3 nominations.|0245674|none
 Nominated for 2 Golden Globes. Another 4 wins & 5 nominations.|0219965|none
 Won 1 Oscar. Another 31 wins & 73 nominations.|0280707|won
@@ -247,7 +169,7 @@ Nominated for 5 Oscars. Another 38 wins & 69 nominations.|0247425|nom
 Nominated for 5 Oscars. Another 56 wins & 61 nominations.|0211915|nom
 1 win & 10 nominations.|0132245|none
 N/A|0161083|none
-1 win & 9 nominations.|0173840|none
+2 wins & 9 nominations.|0173840|none
 9 nominations.|0120681|none
 Won 1 Oscar. Another 14 wins & 22 nominations.|0285742|won
 N/A|0278488|none
@@ -255,17 +177,17 @@ N/A|0278488|none
 1 win & 3 nominations.|0261392|none
 N/A|0238948|none
 1 win & 14 nominations.|0255819|none
-2 wins & 2 nominations.|0268995|none
+3 wins & 1 nomination.|0268995|none
 1 win & 8 nominations.|0250274|none
 N/A|0244970|none
 1 win & 2 nominations.|0245686|none
 N/A|0246544|none
 2 nominations.|0231402|none
-1 win & 5 nominations.|0238112|none
+2 wins & 5 nominations.|0238112|none
 3 nominations.|0230838|none
 1 nomination.|0179626|none
 2 wins & 8 nominations.|0252501|none
-2 wins & 5 nominations.|0225071|none
+3 wins & 5 nominations.|0225071|none
 1 nomination.|0250310|none
 N/A|0252503|none
 6 nominations.|0246002|none
@@ -273,85 +195,9 @@ N/A|0252503|none
 7 nominations.|0269341|none
 3 nominations.|0206314|none
 1 win.|0242998|none
-1 nomination.|0234829|none
-1 win & 6 nominations.|0237572|none
-N/A|0239948|none
-1 win & 3 nominations.|0272020|none
-3 nominations.|0221218|none
-1 win & 1 nomination.|0273799|none
-1 nomination.|0202470|none
-5 nominations.|0250224|none
-2 nominations.|0218922|none
-1 win & 1 nomination.|0184791|none
-12 nominations.|0233142|none
-Nominated for 1 Golden Globe. Another 2 wins & 8 nominations.|0264796|none
-1 win.|0280105|none
-5 nominations.|0236348|none
-12 wins & 5 nominations.|0240515|none
-N/A|0253798|none
-1 nomination.|0236784|none
-N/A|0278475|none
-1 win & 7 nominations.|0181739|none
-2 nominations.|0246989|none
-7 nominations.|0244000|none
-N/A|0186589|none
-1 nomination.|0192071|none
-Nominated for 2 Golden Globes. Another 2 wins & 10 nominations.|0120824|none
-2 wins & 3 nominations.|0218817|none
-N/A|0192111|none
-N/A|0290332|none
-Nominated for 1 Golden Globe. Another 4 wins & 18 nominations.|0250323|none
-1 nomination.|0228333|none
-1 win & 1 nomination.|0256524|none
-Nominated for 1 Oscar. Another 24 wins & 41 nominations.|0243133|nom
-1 nomination.|0166110|none
-N/A|0245120|none
-Nominated for 1 Oscar. Another 46 wins & 54 nominations.|0166924|nom
-1 win & 5 nominations.|0141907|none
-1 win.|0243493|none
-N/A|0203755|none
-Nominated for 1 Oscar. Another 28 wins & 56 nominations.|0162346|nom
-1 nomination.|0263728|none
-Won 1 Oscar. Another 13 wins & 30 nominations.|0280778|won
-1 nomination.|0239949|none
-3 nominations.|0166276|none
-1 nomination.|0227005|none
-1 nomination.|0258470|none
-N/A|0189192|none
-1 win.|0250371|none
-36 wins & 22 nominations.|0259393|none
-2 wins & 7 nominations.|0255653|none
-4 nominations.|0279286|none
-3 wins & 10 nominations.|0118589|none
-2 wins & 5 nominations.|0254099|none
-N/A|0255055|none
-2 wins & 3 nominations.|0186895|none
-N/A|0258038|none
-N/A|0218619|none
-Nominated for 1 Golden Globe. Another 28 wins & 32 nominations.|0248845|none
-22 wins & 43 nominations.|0248126|none
-5 wins & 20 nominations.|0243017|none
-N/A|0309514|none
-N/A|0239986|none
-N/A|0189541|none
-N/A|0180679|none
-N/A|0234354|none
-N/A|0257953|none
-N/A|0262462|none
-3 wins & 6 nominations.|0283431|none
-10 wins & 6 nominations.|0256408|none
-1 win & 2 nominations.|0275560|none
-20 wins & 18 nominations.|0242587|none
-1 nomination.|0240402|none
-N/A|0245891|none
-4 wins & 6 nominations.|0270259|none
-5 wins.|0281680|none
-N/A|0250202|none
-Nominated for 1 Oscar. Another 8 wins & 10 nominations.|0277027|nom
-Won 1 Oscar. Another 27 wins & 20 nominations.|0283509|won
 Nominated for 2 Oscars. Another 14 wins & 56 nominations.|0145487|nom
 Won 2 Oscars. Another 114 wins & 127 nominations.|0167261|won
-Nominated for 1 Oscar. Another 14 wins & 53 nominations.|0121765|nom
+Nominated for 1 Oscar. Another 16 wins & 53 nominations.|0121765|nom
 Nominated for 3 BAFTA Film Awards. Another 11 wins & 39 nominations.|0295297|none
 Nominated for 1 Oscar. Another 20 wins & 27 nominations.|0259446|nom
 3 wins & 30 nominations.|0286106|none
@@ -360,7 +206,7 @@ Nominated for 1 Oscar. Another 20 wins & 27 nominations.|0259446|nom
 Nominated for 1 Oscar. Another 5 wins & 28 nominations.|0268380|nom
 Won 6 Oscars. Another 49 wins & 121 nominations.|0299658|won
 Nominated for 2 Oscars. Another 11 wins & 39 nominations.|0264464|nom
-Nominated for 1 Golden Globe. Another 6 wins & 33 nominations.|0246460|none
+Nominated for 1 Golden Globe. Another 6 wins & 34 nominations.|0246460|none
 3 wins & 8 nominations.|0267913|none
 Nominated for 1 Oscar. Another 10 wins & 27 nominations.|0275847|nom
 4 wins & 13 nominations.|0295701|none
@@ -372,21 +218,21 @@ Nominated for 1 Oscar. Another 18 wins & 76 nominations.|0181689|nom
 3 wins & 5 nominations.|0258463|none
 2 wins & 4 nominations.|0164184|none
 Won 1 Oscar. Another 12 wins & 21 nominations.|0298203|won
-Won 1 Oscar. Another 20 wins & 75 nominations.|0257044|won
+Won 1 Oscar. Another 21 wins & 76 nominations.|0257044|won
 1 win & 9 nominations.|0258000|none
-8 nominations.|0252076|none
-1 win & 3 nominations.|0313737|none
+1 win & 8 nominations.|0252076|none
+2 wins & 3 nominations.|0313737|none
 1 win & 1 nomination.|0290296|none
 4 wins & 10 nominations.|0289765|none
 2 wins & 3 nominations.|0277296|none
 3 wins & 3 nominations.|0287717|none
 6 wins & 9 nominations.|0187738|none
 1 win.|0281373|none
-1 win & 5 nominations.|0277434|none
-Nominated for 10 Oscars. Another 47 wins & 117 nominations.|0217505|nom
+2 wins & 5 nominations.|0277434|none
+Nominated for 10 Oscars. Another 48 wins & 117 nominations.|0217505|nom
 1 win & 17 nominations.|0303714|none
 5 wins & 4 nominations.|0265662|none
-Nominated for 1 Oscar. Another 8 wins & 19 nominations.|0166813|nom
+Nominated for 1 Oscar. Another 9 wins & 19 nominations.|0166813|nom
 2 wins & 8 nominations.|0251160|none
 1 win & 7 nominations.|0279778|none
 1 win & 10 nominations.|0278504|none
@@ -394,7 +240,7 @@ Nominated for 1 Oscar. Another 8 wins & 19 nominations.|0166813|nom
 Nominated for 2 Oscars. Another 24 wins & 67 nominations.|0257360|nom
 1 win & 4 nominations.|0243585|none
 1 win & 7 nominations.|0322802|none
-Nominated for 1 Oscar. Another 1 win & 2 nominations.|0268695|nom
+Nominated for 1 Oscar. Another 2 wins & 2 nominations.|0268695|nom
 12 nominations.|0303933|none
 N/A|0245844|none
 Nominated for 1 Oscar. Another 3 wins & 13 nominations.|0250797|nom
@@ -409,7 +255,7 @@ Won 1 Oscar. Another 41 wins & 120 nominations.|0274558|won
 Nominated for 1 Oscar. Another 11 wins & 28 nominations.|0276751|nom
 4 wins & 2 nominations.|0281358|none
 3 nominations.|0273923|none
-1 win & 4 nominations.|0245562|none
+3 wins & 4 nominations.|0245562|none
 1 win & 7 nominations.|0300532|none
 5 nominations.|0295427|none
 6 nominations.|0120804|none
@@ -447,82 +293,8 @@ Won 2 Oscars. Another 14 wins & 42 nominations.|0120679|won
 1 nomination.|0298388|none
 N/A|0293662|none
 1 win & 4 nominations.|0253867|none
-1 win & 3 nominations.|0271263|none
-Won 1 Oscar. Another 60 wins & 94 nominations.|0268126|won
-1 nomination.|0269095|none
-Won 1 Oscar. Another 38 wins & 11 nominations.|0310793|won
-2 nominations.|0283111|none
-19 wins & 21 nominations.|0168786|none
-N/A|0327036|none
-1 win & 3 nominations.|0283084|none
-1 win.|0251114|none
-2 wins & 4 nominations.|0246894|none
-N/A|0240510|none
-Nominated for 1 Golden Globe. Another 14 wins & 34 nominations.|0272338|none
-2 nominations.|0262396|none
-1 nomination.|0271367|none
-2 nominations.|0276033|none
-N/A|0261289|none
-3 wins & 7 nominations.|0283139|none
-N/A|0240468|none
-7 wins & 11 nominations.|0270288|none
-Nominated for 4 Oscars. Another 100 wins & 86 nominations.|0297884|nom
-4 nominations.|0297162|none
-2 wins & 11 nominations.|0307479|none
-1 nomination.|0282687|none
-5 nominations.|0308208|none
-2 nominations.|0283530|none
-1 win & 1 nomination.|0265808|none
-5 wins & 16 nominations.|0279113|none
-1 nomination.|0314166|none
-1 nomination.|0247444|none
-3 wins & 3 nominations.|0295254|none
-Nominated for 1 Golden Globe. Another 4 wins & 14 nominations.|0307901|none
-Nominated for 1 Oscar. Another 13 wins & 13 nominations.|0258068|nom
-1 win & 1 nomination.|0283632|none
-2 nominations.|0281322|none
-N/A|0289408|none
-N/A|0353164|none
-1 nomination.|0267248|none
-1 win & 8 nominations.|0272207|none
-1 win & 1 nomination.|0279781|none
-1 nomination.|0256276|none
-2 wins & 1 nomination.|0292631|none
-1 nomination.|0258153|none
-Won 1 Oscar. Another 41 wins & 42 nominations.|0287467|won
-Nominated for 1 Oscar. Another 14 wins & 53 nominations.|0121765|nom
-2 wins & 2 nominations.|0278500|none
-2 nominations.|0266452|none
-N/A|0246464|none
-N/A|0280380|none
-1 win & 6 nominations.|0179098|none
-8 wins & 10 nominations.|0221013|none
-1 win & 3 nominations.|0280665|none
-2 wins & 3 nominations.|0292644|none
-Nominated for 1 Golden Globe. Another 23 wins & 23 nominations.|0252444|none
-1 win & 1 nomination.|0231448|none
-7 wins & 4 nominations.|0296166|none
-Nominated for 1 Oscar. Another 21 wins & 14 nominations.|0313196|nom
-2 nominations.|0270707|none
-N/A|0240900|none
-1 nomination.|0278823|none
-1 nomination.|0283160|none
-Nominated for 2 Golden Globes. Another 7 wins & 15 nominations.|0280760|none
-2 wins & 8 nominations.|0180052|none
-1 win & 9 nominations.|0263734|none
-Nominated for 1 Golden Globe. Another 15 wins & 25 nominations.|0274812|none
-5 wins & 13 nominations.|0255477|none
-10 wins & 29 nominations.|0283832|none
-1 nomination.|0259484|none
-7 wins & 3 nominations.|0286179|none
-2 nominations.|0328962|none
-Nominated for 1 BAFTA Film Award. Another 44 wins & 7 nominations.|0238936|none
-1 nomination.|0290212|none
-10 wins & 14 nominations.|0318034|none
-N/A|0301893|none
-6 nominations.|0298744|none
 Won 11 Oscars. Another 174 wins & 113 nominations.|0167260|won
-Won 1 Oscar. Another 46 wins & 59 nominations.|0266543|won
+Won 1 Oscar. Another 46 wins & 58 nominations.|0266543|won
 Nominated for 5 Oscars. Another 31 wins & 88 nominations.|0325980|nom
 6 wins & 23 nominations.|0234215|none
 7 wins & 8 nominations.|0315327|none
@@ -538,7 +310,7 @@ Nominated for 5 Oscars. Another 31 wins & 88 nominations.|0325980|nom
 3 wins & 13 nominations.|0322259|none
 Nominated for 1 Oscar. Another 7 wins & 12 nominations.|0337741|nom
 Nominated for 7 Oscars. Another 6 wins & 36 nominations.|0329575|nom
-4 wins & 5 nominations.|0257076|none
+5 wins & 5 nominations.|0257076|none
 3 wins & 1 nomination.|0338459|none
 Nominated for 4 Oscars. Another 19 wins & 54 nominations.|0325710|nom
 Nominated for 1 Golden Globe. Another 5 wins & 9 nominations.|0322330|none
@@ -546,7 +318,7 @@ Nominated for 1 Golden Globe. Another 5 wins & 9 nominations.|0322330|none
 7 wins & 7 nominations.|0317740|none
 1 win & 8 nominations.|0251127|none
 3 wins & 6 nominations.|0328828|none
-1 win & 7 nominations.|0317303|none
+1 win & 6 nominations.|0317303|none
 5 wins & 16 nominations.|0287978|none
 3 wins & 15 nominations.|0312528|none
 7 wins & 17 nominations.|0305357|none
@@ -585,7 +357,7 @@ Nominated for 2 Golden Globes. Another 10 wins & 26 nominations.|0314331|none
 1 win & 9 nominations.|0283426|none
 2 wins & 3 nominations.|0327850|none
 4 nominations.|0309593|none
-Won 1 Oscar. Another 93 wins & 117 nominations.|0335266|won
+Won 1 Oscar. Another 93 wins & 118 nominations.|0335266|won
 2 nominations.|0314353|none
 Nominated for 1 Golden Globe. Another 4 nominations.|0328589|none
 2 wins & 3 nominations.|0306841|none
@@ -593,7 +365,7 @@ Nominated for 1 Golden Globe. Another 4 nominations.|0328589|none
 4 wins & 7 nominations.|0313443|none
 2 nominations.|0337711|none
 10 nominations.|0325537|none
-4 nominations.|0326900|none
+3 nominations.|0326900|none
 1 nomination.|0263757|none
 3 nominations.|0325805|none
 N/A|0271668|none
@@ -609,7 +381,7 @@ Won 1 Oscar. Another 26 wins & 23 nominations.|0340855|won
 1 win & 2 nominations.|0282209|none
 N/A|0298814|none
 Nominated for 1 Golden Globe. Another 2 wins & 14 nominations.|0337909|none
-N/A|0329717|none
+1 win.|0329717|none
 8 nominations.|0322589|none
 4 wins & 11 nominations.|0191133|none
 6 nominations.|0274166|none
@@ -618,93 +390,20 @@ N/A|0329717|none
 1 nomination.|0266465|none
 8 nominations.|0165982|none
 1 win & 5 nominations.|0329028|none
-1 nomination.|0245803|none
-1 nomination.|0323642|none
-1 win & 1 nomination.|0325258|none
-2 nominations.|0288045|none
-N/A|0326769|none
-6 nominations.|0337592|none
-1 nomination.|0331468|none
-9 nominations.|0318155|none
-N/A|0314786|none
-3 wins & 8 nominations.|0309530|none
-3 nominations.|0289992|none
-N/A|0300556|none
-Nominated for 1 Oscar. Another 14 wins & 24 nominations.|0310281|nom
-4 wins & 12 nominations.|0301181|none
-Nominated for 2 Oscars. Another 29 wins & 71 nominations.|0315733|nom
-1 nomination.|0264150|none
-4 nominations.|0270980|none
-N/A|0295289|none
-3 nominations.|0295700|none
-1 nomination.|0318283|none
-N/A|0319524|none
-Nominated for 3 Oscars. Another 12 wins & 37 nominations.|0315983|nom
-1 win & 3 nominations.|0279111|none
-4 wins & 7 nominations.|0251736|none
-N/A|0310910|none
-Nominated for 3 Oscars. Another 17 wins & 41 nominations.|0335119|nom
-2 wins.|0317676|none
-2 wins & 18 nominations.|0324133|none
-2 nominations.|0266489|none
-15 wins & 17 nominations.|0366532|none
-2 wins.|0306734|none
-Nominated for 1 Oscar. Another 9 wins & 25 nominations.|0318374|nom
-Nominated for 1 Oscar. Another 1 win & 5 nominations.|0343121|nom
-N/A|0304711|none
-N/A|0311110|none
-Nominated for 2 Oscars. Another 19 wins & 32 nominations.|0286244|nom
-1 win & 4 nominations.|0310357|none
-1 nomination.|0318850|none
-1 nomination.|0323572|none
-11 wins & 9 nominations.|0299930|none
-Nominated for 1 Oscar. Another 31 wins & 47 nominations.|0305206|nom
-4 wins & 1 nomination.|0309820|none
-Won 1 BAFTA Film Award. Another 28 wins & 31 nominations.|0340377|none
-3 wins & 5 nominations.|0308383|none
-N/A|0338077|none
-Won 1 Oscar. Another 47 wins & 31 nominations.|0338135|won
-2 wins & 15 nominations.|0339034|none
-1 win & 2 nominations.|0199626|none
-Nominated for 1 Oscar. Another 14 wins & 45 nominations.|0328538|nom
-2 nominations.|0294357|none
-Won 1 Oscar. Another 11 wins & 14 nominations.|0317910|won
-1 win & 3 nominations.|0377992|none
-3 nominations.|0360916|none
-1 nomination.|0308508|none
-Won 1 Oscar. Another 47 wins & 31 nominations.|0338135|won
-N/A|0313792|none
-14 nominations.|0330602|none
-Nominated for 1 Oscar. Another 24 wins & 13 nominations.|0342172|nom
-Nominated for 1 Golden Globe. Another 5 wins & 5 nominations.|0329388|none
-Nominated for 1 Oscar. Another 7 wins & 3 nominations.|0373175|nom
-Nominated for 1 Oscar. Another 15 wins & 21 nominations.|0311648|nom
-2 nominations.|0335013|none
-N/A|0337996|none
-Nominated for 1 Golden Globe. Another 11 wins & 27 nominations.|0323944|none
-1 nomination.|0380732|none
-1 nomination.|0380585|none
-32 wins & 39 nominations.|0347304|none
-1 win.|0367960|none
-N/A|0349159|none
-2 nominations.|0266747|none
-6 nominations.|0342167|none
-Nominated for 1 Golden Globe. Another 3 wins & 13 nominations.|0312549|none
-3 wins & 3 nominations.|0322659|none
 Nominated for 2 Oscars. Another 16 wins & 48 nominations.|0298148|nom
 Won 1 Oscar. Another 23 wins & 54 nominations.|0316654|won
-Nominated for 3 Oscars. Another 24 wins & 20 nominations.|0335345|nom
+Nominated for 3 Oscars. Another 25 wins & 20 nominations.|0335345|nom
 2 wins & 6 nominations.|0290002|none
 Won 2 Oscars. Another 59 wins & 53 nominations.|0317705|won
 Nominated for 2 Oscars. Another 14 wins & 42 nominations.|0304141|nom
 Won 1 BAFTA Film Award. Another 5 wins & 11 nominations.|0319262|none
 5 wins & 21 nominations.|0372183|none
 1 win & 9 nominations.|0368891|none
-Nominated for 3 Oscars. Another 5 wins & 21 nominations.|0338348|nom
+Nominated for 3 Oscars. Another 5 wins & 22 nominations.|0338348|nom
 Nominated for 1 Oscar. Another 3 wins & 15 nominations.|0307453|nom
 Nominated for 1 Oscar. Another 1 win & 13 nominations.|0343818|nom
-Nominated for 1 Oscar. Another 3 wins & 19 nominations.|0332452|nom
-2 wins & 8 nominations.|0349903|none
+Nominated for 1 Oscar. Another 4 wins & 19 nominations.|0332452|nom
+3 wins & 8 nominations.|0349903|none
 6 wins & 9 nominations.|0343660|none
 2 wins & 17 nominations.|0338526|none
 29 wins & 15 nominations.|0361596|none
@@ -714,7 +413,7 @@ Nominated for 1 Oscar. Another 4 wins & 21 nominations.|0368447|nom
 2 wins & 10 nominations.|0391198|none
 Won 5 Oscars. Another 74 wins & 115 nominations.|0338751|won
 Nominated for 2 Oscars. Another 22 wins & 64 nominations.|0369339|nom
-Won 4 Oscars. Another 60 wins & 80 nominations.|0405159|won
+Won 4 Oscars. Another 63 wins & 78 nominations.|0405159|won
 1 win & 2 nominations.|0368933|none
 3 wins & 9 nominations.|0335438|none
 1 win & 8 nominations.|0343135|none
@@ -753,7 +452,7 @@ N/A|0364751|none
 Won 1 Oscar. Another 20 wins & 77 nominations.|0308644|won
 6 wins & 8 nominations.|0356470|none
 Nominated for 3 Oscars. Another 6 wins & 35 nominations.|0293508|nom
-2 wins & 3 nominations.|0318627|none
+6 wins & 3 nominations.|0318627|none
 5 nominations.|0299172|none
 1 nomination.|0396592|none
 3 nominations.|0363988|none
@@ -765,12 +464,12 @@ Nominated for 1 Golden Globe. Another 5 wins & 10 nominations.|0371246|none
 1 win & 5 nominations.|0365957|none
 Nominated for 1 Golden Globe. Another 7 nominations.|0317198|none
 8 wins & 6 nominations.|0327554|none
-4 wins & 4 nominations.|0335245|none
+5 wins & 4 nominations.|0335245|none
 7 wins & 17 nominations.|0346156|none
 1 nomination.|0350028|none
 2 wins & 6 nominations.|0316732|none
-Won 1 Oscar. Another 66 wins & 103 nominations.|0338013|won
-3 wins & 12 nominations.|0346491|none
+Won 1 Oscar. Another 64 wins & 103 nominations.|0338013|won
+4 wins & 12 nominations.|0346491|none
 Nominated for 2 Oscars. Another 19 wins & 45 nominations.|0376541|nom
 1 win & 5 nominations.|0330793|none
 1 win & 11 nominations.|0372588|none
@@ -789,102 +488,14 @@ Nominated for 2 Oscars. Another 19 wins & 45 nominations.|0376541|nom
 N/A|0358349|none
 Nominated for 3 Oscars. Another 16 wins & 42 nominations.|0395169|nom
 1 nomination.|0327679|none
-1 nomination.|0318974|none
-1 win & 5 nominations.|0339412|none
-1 win.|0353774|none
-4 nominations.|0329691|none
-2 nominations.|0377062|none
-1 nomination.|0361841|none
-N/A|0403703|none
-2 wins & 2 nominations.|0338512|none
-3 nominations.|0366551|none
-2 nominations.|0323033|none
-2 nominations.|0356150|none
-N/A|0332712|none
-1 win & 6 nominations.|0387575|none
-8 nominations.|0335559|none
-1 nomination.|0360201|none
-Won 1 Oscar. Another 35 wins & 43 nominations.|0318462|won
-1 nomination.|0337917|none
-1 nomination.|0327247|none
-2 wins & 5 nominations.|0241025|none
-N/A|0338325|none
-2 wins & 4 nominations.|0265208|none
-N/A|0361925|none
-N/A|0335121|none
-1 nomination.|0367085|none
-N/A|0338096|none
-4 nominations.|0363282|none
-1 nomination.|0326856|none
-13 wins & 20 nominations.|0365748|none
-Nominated for 2 Golden Globes. Another 1 win & 11 nominations.|0352277|none
-Won 1 Golden Globe. Another 5 wins & 7 nominations.|0375173|none
-1 nomination.|0324554|none
-3 wins & 10 nominations.|0356721|none
-1 win & 5 nominations.|0349169|none
-5 nominations.|0360139|none
-2 nominations.|0380277|none
-1 win & 4 nominations.|0252028|none
-Nominated for 1 Oscar. Another 7 wins & 11 nominations.|0390521|nom
-Nominated for 1 Oscar. Another 19 wins & 60 nominations.|0385004|nom
-2 wins.|0399877|none
-2 wins & 3 nominations.|0361696|none
-1 nomination.|0314498|none
-Nominated for 1 Oscar. Another 17 wins & 48 nominations.|0362269|nom
-1 win & 3 nominations.|0368975|none
-5 nominations.|0270846|none
-5 nominations.|0360139|none
-1 win & 6 nominations.|0332375|none
-N/A|0324127|none
-1 win.|0345074|none
-Nominated for 1 Oscar. Another 8 wins & 18 nominations.|0340012|nom
-N/A|0167456|none
-6 wins & 7 nominations.|0399901|none
-Nominated for 1 Oscar. Another 40 wins & 32 nominations.|0390221|nom
-Nominated for 2 Oscars. Another 17 wins & 33 nominations.|0344510|nom
-2 nominations.|0350194|none
-N/A|0315824|none
-Nominated for 1 Golden Globe. Another 4 nominations.|0363473|none
-N/A|0312329|none
-Nominated for 1 Oscar. Another 9 wins & 27 nominations.|0381681|nom
-1 nomination.|0331952|none
-1 nomination.|0354766|none
-Nominated for 1 BAFTA Film Award. Another 15 wins & 38 nominations.|0275491|none
-Nominated for 1 Golden Globe. Another 2 wins & 16 nominations.|0337876|none
-N/A|0331953|none
-N/A|0360009|none
-3 wins & 2 nominations.|0377744|none
-1 win & 4 nominations.|0389831|none
-2 wins & 7 nominations.|0348593|none
-1 win.|0315273|none
-Nominated for 3 Oscars. Another 40 wins & 37 nominations.|0383694|nom
-Nominated for 1 BAFTA Film Award. Another 2 wins & 6 nominations.|0379889|none
-Won 1 Oscar. Another 20 wins & 5 nominations.|0388789|won
-N/A|0410454|none
-21 wins & 29 nominations.|0420332|none
-N/A|0398872|none
-1 nomination.|0375104|none
-N/A|0286218|none
-9 wins & 9 nominations.|0391024|none
-1 win & 1 nomination.|0389326|none
-6 nominations.|0385635|none
-3 wins & 1 nomination.|0397696|none
-3 nominations.|0363532|none
-Won 1 Oscar. Another 65 wins & 34 nominations.|0369702|won
-2 wins & 4 nominations.|0361309|none
-4 wins & 10 nominations.|0400400|none
-N/A|0380344|none
-1 win & 6 nominations.|0313300|none
-8 wins & 34 nominations.|0347473|none
-2 wins & 10 nominations.|0386669|none
-Nominated for 1 Oscar. Another 22 wins & 51 nominations.|0121766|nom
+Nominated for 1 Oscar. Another 25 wins & 51 nominations.|0121766|nom
 Won 1 Oscar. Another 14 wins & 44 nominations.|0363771|won
-Nominated for 1 Oscar. Another 12 wins & 41 nominations.|0330373|nom
+Nominated for 1 Oscar. Another 13 wins & 41 nominations.|0330373|nom
 Nominated for 3 Oscars. Another 13 wins & 40 nominations.|0407304|nom
-Won 3 Oscars. Another 42 wins & 92 nominations.|0360717|won
+Won 3 Oscars. Another 39 wins & 92 nominations.|0360717|won
 11 wins & 11 nominations.|0396269|none
 Nominated for 1 Oscar. Another 15 wins & 46 nominations.|0367594|nom
-Nominated for 1 Oscar. Another 15 wins & 66 nominations.|0372784|nom
+Nominated for 1 Oscar. Another 14 wins & 66 nominations.|0372784|nom
 4 wins & 29 nominations.|0351283|none
 9 wins & 18 nominations.|0356910|none
 4 wins & 24 nominations.|0386588|none
@@ -898,7 +509,7 @@ Won 1 Oscar. Another 44 wins & 43 nominations.|0358273|won
 10 wins & 18 nominations.|0405422|none
 2 wins & 6 nominations.|0408790|none
 3 wins & 7 nominations.|0432348|none
-Won 3 Oscars. Another 129 wins & 121 nominations.|0388795|won
+Won 3 Oscars. Another 131 wins & 121 nominations.|0388795|won
 1 win & 10 nominations.|0369735|none
 1 win & 8 nominations.|0368578|none
 1 win & 5 nominations.|0452598|none
@@ -916,14 +527,14 @@ Won 1 Oscar. Another 21 wins & 15 nominations.|0428803|won
 2 wins & 6 nominations.|0400497|none
 2 wins & 4 nominations.|0384806|none
 1 nomination.|0405325|none
-1 win & 13 nominations.|0374536|none
+2 wins & 13 nominations.|0374536|none
 6 wins & 12 nominations.|0418763|none
-Nominated for 3 Oscars. Another 15 wins & 40 nominations.|0352248|nom
+Nominated for 3 Oscars. Another 16 wins & 40 nominations.|0352248|nom
 Nominated for 1 Golden Globe. Another 4 wins & 7 nominations.|0356680|none
 2 wins & 9 nominations.|0421239|none
 Won 3 Oscars. Another 26 wins & 42 nominations.|0397535|won
 1 win & 2 nominations.|0375210|none
-Won 1 Oscar. Another 36 wins & 28 nominations.|0312004|won
+Won 1 Oscar. Another 37 wins & 28 nominations.|0312004|won
 1 win & 13 nominations.|0377471|none
 11 wins & 11 nominations.|0396269|none
 2 wins & 4 nominations.|0443295|none
@@ -939,7 +550,7 @@ Won 1 Oscar. Another 13 wins & 28 nominations.|0365737|won
 1 win & 1 nomination.|0425123|none
 5 nominations.|0397101|none
 Nominated for 5 Oscars. Another 12 wins & 62 nominations.|0408306|nom
-4 wins & 13 nominations.|0320661|none
+5 wins & 13 nominations.|0320661|none
 N/A|0357507|none
 2 wins & 3 nominations.|0386140|none
 1 nomination.|0417001|none
@@ -949,7 +560,7 @@ N/A|0398375|none
 1 win & 10 nominations.|0424774|none
 1 win & 14 nominations.|0403508|none
 Nominated for 4 Oscars. Another 13 wins & 52 nominations.|0414387|nom
-2 wins & 4 nominations.|0355295|none
+4 wins & 4 nominations.|0355295|none
 15 nominations.|0388500|none
 N/A|0398017|none
 1 win & 6 nominations.|0399201|none
@@ -966,7 +577,7 @@ Nominated for 1 Golden Globe. Another 1 win & 6 nominations.|0388125|none
 5 wins & 10 nominations.|0397065|none
 N/A|0372532|none
 Nominated for 6 Oscars. Another 38 wins & 119 nominations.|0433383|nom
-Nominated for 2 Oscars. Another 35 wins & 72 nominations.|0399146|nom
+Nominated for 2 Oscars. Another 37 wins & 72 nominations.|0399146|nom
 6 wins & 3 nominations.|0430308|none
 2 wins.|0432291|none
 2 wins & 3 nominations.|0406375|none
@@ -974,96 +585,14 @@ Nominated for 2 Oscars. Another 35 wins & 72 nominations.|0399146|nom
 Won 1 Oscar. Another 58 wins & 84 nominations.|0379725|won
 3 nominations.|0419706|none
 1 nomination.|0329774|none
-1 win & 4 nominations.|0368709|none
+2 wins & 4 nominations.|0368709|none
 4 nominations.|0402022|none
 9 wins & 8 nominations.|0379786|none
-5 nominations.|0382628|none
-1 nomination.|0342258|none
-2 nominations.|0357277|none
-N/A|0396652|none
-2 wins & 2 nominations.|0399295|none
-Nominated for 1 Oscar. Another 11 wins & 28 nominations.|0416320|nom
-2 nominations.|0417217|none
-1 nomination.|0387514|none
-3 wins & 10 nominations.|0367652|none
-Won 1 Oscar. Another 25 wins & 44 nominations.|0410097|won
-1 win & 3 nominations.|0391304|none
-2 wins & 14 nominations.|0418819|none
-1 win & 2 nominations.|0398712|none
-N/A|0331933|none
-2 nominations.|0361089|none
-Nominated for 4 Golden Globes. Another 1 win & 13 nominations.|0395251|none
-2 nominations.|0257516|none
-1 win & 2 nominations.|0378109|none
-5 wins & 12 nominations.|0365885|none
-Nominated for 2 Oscars. Another 6 wins & 17 nominations.|0395972|nom
-1 nomination.|0407121|none
-2 wins & 6 nominations.|0403455|none
-10 wins & 5 nominations.|0395584|none
-7 wins & 12 nominations.|0362165|none
-2 nominations.|0376108|none
-N/A|0457528|none
-2 wins & 3 nominations.|0380623|none
-3 wins & 24 nominations.|0416315|none
-N/A|0348333|none
-4 nominations.|0451069|none
-3 nominations.|0388980|none
-N/A|0402901|none
-4 wins & 11 nominations.|0412019|none
-1 win & 3 nominations.|0373908|none
-Nominated for 1 Oscar. Another 5 wins & 25 nominations.|0402399|nom
-Nominated for 1 Golden Globe. Another 1 win & 5 nominations.|0365485|none
-N/A|0384680|none
-3 wins & 3 nominations.|0402894|none
-1 win & 7 nominations.|0355702|none
-Nominated for 2 Oscars. Another 6 wins & 31 nominations.|0413015|nom
-1 win & 7 nominations.|0338427|none
-1 nomination.|0426615|none
-2 wins.|0421054|none
-1 nomination.|0326905|none
-N/A|0384286|none
-2 nominations.|0400525|none
-Nominated for 2 Oscars. Another 31 wins & 21 nominations.|0407265|nom
-N/A|0417415|none
-2 wins.|0350261|none
-1 win & 1 nomination.|0399327|none
-8 wins & 9 nominations.|0438205|none
-Nominated for 1 Golden Globe. Another 4 wins & 5 nominations.|0377107|none
-Nominated for 1 Oscar. Another 23 wins & 47 nominations.|0367089|nom
-6 nominations.|0436078|none
-1 win & 2 nominations.|0366627|none
-N/A|0373416|none
-N/A|1557561|none
-5 wins & 4 nominations.|0369226|none
-10 wins & 6 nominations.|0412080|none
-5 wins & 8 nominations.|0419294|none
-N/A|0484361|none
-5 wins & 15 nominations.|0373469|none
-Nominated for 1 Oscar. Another 3 wins & 10 nominations.|1016268|nom
-1 nomination.|0388183|none
-21 wins & 15 nominations.|0415978|none
-26 wins & 32 nominations.|0387898|none
-1 nomination.|0371257|none
-1 win & 3 nominations.|0436724|none
-21 wins & 14 nominations.|0427312|none
-N/A|0403016|none
-Nominated for 1 Oscar. Another 21 wins & 25 nominations.|0418773|nom
-2 wins & 4 nominations.|0380599|none
-N/A|0457530|none
-4 nominations.|0318081|none
-3 wins & 2 nominations.|0421229|none
-7 wins & 4 nominations.|0404030|none
-1 win.|0403537|none
-2 nominations.|0384686|none
-Nominated for 1 Oscar. Another 17 wins & 12 nominations.|0436613|nom
-Nominated for 1 Oscar. Another 13 wins & 15 nominations.|0445620|nom
-1 win & 7 nominations.|0456165|none
-2 wins & 7 nominations.|0451850|none
 Won 1 Oscar. Another 42 wins & 51 nominations.|0383574|won
 2 wins & 8 nominations.|0477347|none
 Nominated for 2 Oscars. Another 27 wins & 28 nominations.|0317219|nom
 7 wins & 37 nominations.|0376994|none
-Nominated for 1 Golden Globe. Another 5 wins & 21 nominations.|0382625|none
+Nominated for 1 Golden Globe. Another 6 wins & 21 nominations.|0382625|none
 Nominated for 1 Oscar. Another 12 wins & 38 nominations.|0348150|nom
 Won 1 Oscar. Another 18 wins & 24 nominations.|0366548|won
 7 wins & 16 nominations.|0438097|none
@@ -1073,8 +602,8 @@ Nominated for 1 Oscar. Another 11 wins & 24 nominations.|0454921|nom
 8 wins & 9 nominations.|0415306|none
 Nominated for 1 Oscar. Another 3 wins & 11 nominations.|0389860|nom
 7 wins & 14 nominations.|0317919|none
-Won 4 Oscars. Another 90 wins & 122 nominations.|0407887|won
-Nominated for 1 Oscar. Another 20 wins & 29 nominations.|0443453|nom
+Won 4 Oscars. Another 90 wins & 123 nominations.|0407887|won
+Nominated for 1 Oscar. Another 20 wins & 31 nominations.|0443453|nom
 Nominated for 2 Oscars. Another 16 wins & 48 nominations.|0458352|nom
 2 wins & 5 nominations.|0452594|none
 Won 2 Oscars. Another 66 wins & 87 nominations.|0443489|won
@@ -1094,7 +623,7 @@ Nominated for 1 Oscar. Another 4 wins & 23 nominations.|0385880|nom
 1 nomination.|0493430|none
 3 nominations.|0414853|none
 1 win & 2 nominations.|0449089|none
-3 wins & 8 nominations.|0469641|none
+4 wins & 8 nominations.|0469641|none
 3 nominations.|0479143|none
 1 win & 5 nominations.|0421729|none
 1 win & 3 nominations.|0462590|none
@@ -1108,26 +637,26 @@ Nominated for 1 BAFTA Film Award. Another 6 wins & 13 nominations.|0424095|none
 2 wins & 5 nominations.|0393735|none
 Nominated for 1 Oscar. Another 6 nominations.|0409182|nom
 Nominated for 1 Oscar. Another 2 wins & 11 nominations.|0343737|nom
-Won 2 Oscars. Another 68 wins & 104 nominations.|0449059|won
+Won 2 Oscars. Another 68 wins & 105 nominations.|0449059|won
 7 nominations.|0437863|none
 5 wins & 15 nominations.|0430304|none
 1 nomination.|0381971|none
 2 nominations.|0445990|none
 Nominated for 5 Oscars. Another 8 wins & 26 nominations.|0450259|nom
-Won 1 Oscar. Another 90 wins & 92 nominations.|0436697|won
+Won 1 Oscar. Another 91 wins & 93 nominations.|0436697|won
 1 win & 4 nominations.|0406816|none
 1 win & 6 nominations.|0466909|none
 6 nominations.|0414982|none
 Nominated for 2 Oscars. Another 5 wins & 32 nominations.|0482571|nom
 2 wins & 2 nominations.|0410297|none
-Nominated for 3 Oscars. Another 8 wins & 17 nominations.|0472043|nom
+Nominated for 3 Oscars. Another 9 wins & 17 nominations.|0472043|nom
 3 nominations.|0408345|none
 4 wins & 1 nomination.|0466342|none
 3 nominations.|0455857|none
 8 nominations.|0384537|none
 1 nomination.|0758794|none
 2 wins & 3 nominations.|0385726|none
-8 wins & 10 nominations.|0452637|none
+10 wins & 10 nominations.|0452637|none
 2 wins & 7 nominations.|0454841|none
 2 wins & 2 nominations.|0455967|none
 Nominated for 1 Golden Globe. Another 3 wins & 14 nominations.|0420223|none
@@ -1136,7 +665,7 @@ Nominated for 1 Oscar. Another 10 wins & 9 nominations.|0443543|nom
 3 nominations.|0433386|none
 N/A|0421206|none
 7 nominations.|0408985|none
-Won 3 Oscars. Another 93 wins & 97 nominations.|0457430|won
+Won 3 Oscars. Another 94 wins & 99 nominations.|0457430|won
 3 wins & 3 nominations.|0762121|none
 2 nominations.|0405469|none
 1 nomination.|0483726|none
@@ -1155,119 +684,33 @@ Nominated for 2 Oscars. Another 27 wins & 46 nominations.|0475276|nom
 4 nominations.|0455499|none
 1 win & 4 nominations.|0429589|none
 2 wins & 2 nominations.|0479884|none
-N/A|0430634|none
-5 wins & 12 nominations.|0446059|none
-3 wins & 3 nominations.|0424345|none
-Won 2 Oscars. Another 30 wins & 10 nominations.|0497116|won
-2 wins & 7 nominations.|0450345|none
-N/A|0475944|none
-N/A|0441796|none
-Nominated for 1 Oscar. Another 4 wins & 12 nominations.|0387877|nom
-1 win & 1 nomination.|0465624|none
-5 wins & 4 nominations.|0425210|none
-4 nominations.|0456020|none
-7 nominations.|0466856|none
-3 nominations.|0434215|none
-5 wins & 20 nominations.|0420087|none
-1 nomination.|0454919|none
-1 win & 3 nominations.|0486551|none
-12 wins & 14 nominations.|0437800|none
-N/A|0419946|none
-1 win & 5 nominations.|0429591|none
-1 win & 1 nomination.|0370032|none
-2 nominations.|0462519|none
-Won 1 Oscar. Another 47 wins & 30 nominations.|0455590|won
-Nominated for 4 Oscars. Another 14 wins & 65 nominations.|0465551|nom
-7 nominations.|0397078|none
-N/A|0417433|none
-1 win & 3 nominations.|0488658|none
-1 nomination.|0454082|none
-Won 1 Oscar. Another 15 wins & 20 nominations.|0422720|won
-3 nominations.|0462395|none
-1 win & 2 nominations.|0344854|none
-N/A|0437179|none
-N/A|0375154|none
-N/A|0430779|none
-Nominated for 1 Golden Globe. Another 3 wins & 7 nominations.|0427969|none
-Won 1 Oscar. Another 23 wins & 35 nominations.|0498380|won
-2 wins.|0430431|none
-2 wins & 2 nominations.|0436331|none
-2 wins & 3 nominations.|0454824|none
-1 win & 2 nominations.|0462346|none
-Nominated for 1 Oscar. Another 60 wins & 80 nominations.|0441909|nom
-7 wins & 22 nominations.|0479647|none
-1 win & 5 nominations.|0417225|none
-2 wins & 3 nominations.|0349467|none
-4 wins & 8 nominations.|0383060|none
-1 win & 4 nominations.|0434139|none
-4 wins & 10 nominations.|0437777|none
-1 win & 4 nominations.|0433412|none
-Nominated for 2 Golden Globes. Another 7 wins & 15 nominations.|0308055|none
-1 nomination.|0457513|none
-N/A|0805526|none
-Nominated for 1 Golden Globe. Another 8 wins & 31 nominations.|0414993|none
-2 nominations.|0365830|none
-1 win & 5 nominations.|0453494|none
-Won 1 Golden Globe. Another 8 wins & 11 nominations.|0446755|none
-2 nominations.|0448075|none
-2 wins & 5 nominations.|0439815|none
-N/A|0433442|none
-1 win & 2 nominations.|0401445|none
-2 wins & 1 nomination.|0763304|none
-1 win & 3 nominations.|0405676|none
-1 nomination.|0465142|none
-N/A|0490196|none
-1 win & 1 nomination.|0454970|none
-Nominated for 1 Golden Globe. Another 3 wins & 6 nominations.|0439289|none
-N/A|0473024|none
-4 nominations.|0404390|none
-Nominated for 1 Oscar. Another 12 wins & 29 nominations.|0473444|nom
-1 nomination.|0456554|none
-7 wins & 6 nominations.|0430912|none
-3 wins & 14 nominations.|0470765|none
-3 wins & 18 nominations.|0405296|none
-Nominated for 3 Oscars. Another 18 wins & 54 nominations.|0404203|nom
-7 wins & 6 nominations.|0354899|none
-N/A|0454987|none
-2 nominations.|0415949|none
-1 nomination.|0480271|none
-2 wins & 5 nominations.|0437232|none
-3 nominations.|0425601|none
-Nominated for 1 Oscar. Another 4 wins & 20 nominations.|0489327|nom
-N/A|0364955|none
-8 wins & 10 nominations.|0452637|none
-4 wins & 22 nominations.|0449999|none
-1 win & 7 nominations.|0492506|none
-Nominated for 1 Golden Globe. Another 5 wins & 4 nominations.|0482546|none
-N/A|1445145|none
-Nominated for 2 BAFTA Film Awards. Another 2 wins & 12 nominations.|0464049|none
-Nominated for 1 Oscar. Another 27 wins & 45 nominations.|0468489|nom
 Nominated for 1 BAFTA Film Award. Another 3 wins & 31 nominations.|0413300|none
 Nominated for 1 BAFTA Film Award. Another 5 wins & 14 nominations.|0413267|none
 Nominated for 3 Oscars. Another 19 wins & 40 nominations.|0418279|nom
 Nominated for 2 Oscars. Another 20 wins & 41 nominations.|0449088|nom
-Nominated for 2 BAFTA Film Awards. Another 15 wins & 38 nominations.|0373889|none
+Nominated for 2 BAFTA Film Awards. Another 14 wins & 38 nominations.|0373889|none
 9 wins & 21 nominations.|0480249|none
 Won 3 Oscars. Another 25 wins & 38 nominations.|0440963|won
-5 nominations.|0465234|none
+1 win & 5 nominations.|0465234|none
 2 wins & 2 nominations.|0952640|none
+1 win.|1047855|none
 Won 1 Oscar. Another 64 wins & 42 nominations.|0382932|won
 Nominated for 1 Golden Globe. Another 4 wins & 32 nominations.|0462538|none
 4 nominations.|0486946|none
 7 wins & 25 nominations.|0478311|none
-Won 1 Oscar. Another 88 wins & 94 nominations.|0467406|won
+Won 1 Oscar. Another 89 wins & 94 nominations.|0467406|won
 9 nominations.|0293564|none
 3 wins & 16 nominations.|0337978|none
 2 wins & 14 nominations.|0486576|none
 Nominated for 2 Oscars. Another 12 wins & 34 nominations.|0765429|nom
 Nominated for 3 Oscars. Another 11 wins & 47 nominations.|0461770|nom
 Nominated for 1 Golden Globe. Another 1 win & 14 nominations.|0389790|none
-11 wins & 24 nominations.|0829482|none
+10 wins & 24 nominations.|0829482|none
 14 nominations.|0762107|none
 Nominated for 3 Golden Globes. Another 19 wins & 39 nominations.|0427327|none
 3 wins & 10 nominations.|0445934|none
 1 win & 5 nominations.|0496806|none
-8 nominations.|0259324|none
+1 win & 8 nominations.|0259324|none
 2 wins & 11 nominations.|0413099|none
 1 win & 10 nominations.|0396555|none
 Nominated for 1 Oscar. Another 8 wins & 8 nominations.|0477051|nom
@@ -1276,10 +719,10 @@ Nominated for 1 Oscar. Another 8 wins & 8 nominations.|0477051|nom
 2 wins & 16 nominations.|0442933|none
 6 wins & 5 nominations.|0398808|none
 4 wins & 6 nominations.|0486822|none
-Won 4 Oscars. Another 155 wins & 130 nominations.|0477348|won
+Won 4 Oscars. Another 155 wins & 131 nominations.|0477348|won
 N/A|0486583|none
 4 wins & 8 nominations.|0450385|none
-Won 1 Oscar. Another 4 wins & 32 nominations.|0385752|won
+Won 1 Oscar. Another 6 wins & 32 nominations.|0385752|won
 Nominated for 1 Oscar. Another 5 wins & 22 nominations.|0472062|nom
 1 win & 6 nominations.|0890870|none
 9 nominations.|0775539|none
@@ -1289,13 +732,13 @@ Nominated for 1 Oscar. Another 2 wins & 18 nominations.|0423294|nom
 2 nominations.|0453556|none
 2 wins & 4 nominations.|0431308|none
 Nominated for 2 Oscars. Another 3 wins & 30 nominations.|0381849|nom
-Won 1 Oscar. Another 30 wins & 72 nominations.|0408236|won
-Won 1 Oscar. Another 48 wins & 145 nominations.|0783233|won
+Won 1 Oscar. Another 33 wins & 72 nominations.|0408236|won
+Won 1 Oscar. Another 49 wins & 145 nominations.|0783233|won
 2 wins & 1 nomination.|0432021|none
 6 nominations.|0758766|none
 3 nominations.|0422774|none
 4 nominations.|0937375|none
-Won 1 Oscar. Another 26 wins & 109 nominations.|0465538|won
+Won 1 Oscar. Another 26 wins & 110 nominations.|0465538|won
 2 nominations.|0477071|none
 4 nominations.|0480242|none
 5 nominations.|0431197|none
@@ -1306,11 +749,11 @@ Won 1 Oscar. Another 26 wins & 109 nominations.|0465538|won
 1 nomination.|0490084|none
 4 nominations.|0758730|none
 6 nominations.|0760329|none
-Won 2 Oscars. Another 105 wins & 131 nominations.|0469494|won
+Won 2 Oscars. Another 105 wins & 133 nominations.|0469494|won
 2 wins & 3 nominations.|0799949|none
 2 wins.|0465494|none
 12 nominations.|0389722|none
-1 win & 2 nominations.|0488120|none
+2 wins & 2 nominations.|0488120|none
 5 wins & 6 nominations.|0486655|none
 Nominated for 1 Golden Globe. Another 1 win & 6 nominations.|0476964|none
 1 win.|0408839|none
@@ -1340,105 +783,22 @@ Nominated for 1 Oscar. Another 14 wins & 14 nominations.|0386032|nom
 Nominated for 1 Oscar. Another 2 wins & 16 nominations.|0445922|nom
 1 win.|0457433|none
 3 wins.|1027743|none
-2 wins & 8 nominations.|0425112|none
-N/A|0499556|none
-6 nominations.|0768212|none
-N/A|0800069|none
-1 nomination.|0435670|none
-1 nomination.|0499554|none
-Nominated for 1 Oscar. Another 32 wins & 28 nominations.|0452623|nom
-3 nominations.|0490204|none
-1 nomination.|0452702|none
-3 wins & 5 nominations.|0791304|none
-6 wins & 15 nominations.|0473308|none
-3 wins & 6 nominations.|0416508|none
-Nominated for 2 Oscars. Another 23 wins & 99 nominations.|0758758|nom
-Nominated for 2 Golden Globes. Another 1 win & 4 nominations.|0841046|none
-1 win & 3 nominations.|0435705|none
-5 nominations.|0498353|none
-Nominated for 1 Oscar. Another 28 wins & 69 nominations.|0765443|nom
-N/A|0455760|none
-2 wins & 1 nomination.|0455960|none
-Won 1 Oscar. Another 5 wins & 29 nominations.|0414055|won
-Nominated for 1 Oscar. Another 6 wins & 22 nominations.|0419887|nom
-N/A|0826765|none
-1 nomination.|0427392|none
-3 nominations.|0891527|none
-1 win & 3 nominations.|0211933|none
-1 win & 1 nomination.|0787475|none
-2 nominations.|0476995|none
-1 nomination.|0790804|none
-1 win & 5 nominations.|0462244|none
-3 nominations.|0465602|none
-1 nomination.|0770772|none
-2 nominations.|0765447|none
-4 wins & 3 nominations.|0838221|none
-N/A|0815244|none
-N/A|0419843|none
-1 nomination.|0372873|none
-N/A|0772193|none
-Won 2 Oscars. Another 43 wins & 61 nominations.|0450188|won
-1 nomination.|0446013|none
-5 nominations.|0804452|none
-1 win & 2 nominations.|0804522|none
-3 nominations.|0804461|none
-Won 1 Oscar. Another 20 wins & 30 nominations.|0907657|won
-Nominated for 1 Golden Globe. Another 4 wins & 17 nominations.|0829459|none
-N/A|0484562|none
-2 wins & 2 nominations.|0795368|none
-2 nominations.|0462229|none
-N/A|0800003|none
-2 nominations.|0415965|none
-8 wins & 4 nominations.|0897361|none
-1 nomination.|0443473|none
-32 wins & 40 nominations.|0464141|none
-17 wins & 27 nominations.|0292963|none
-2 wins & 3 nominations.|0475355|none
-1 nomination.|0780595|none
-Nominated for 1 Oscar. Another 2 wins & 17 nominations.|0478134|nom
-Nominated for 2 Oscars. Another 17 wins & 31 nominations.|0775529|nom
-Nominated for 4 Oscars. Another 66 wins & 91 nominations.|0401383|nom
-Nominated for 1 Oscar. Another 7 wins & 32 nominations.|0805564|nom
-2 nominations.|0462396|none
-N/A|0756703|none
-2 nominations.|0841032|none
-1 nomination.|0338216|none
-1 win & 1 nomination.|0785077|none
-N/A|0455326|none
-Nominated for 1 Golden Globe. Another 3 nominations.|0484740|none
-Nominated for 1 Golden Globe. Another 24 wins & 51 nominations.|0808357|none
-1 win & 11 nominations.|0427470|none
-9 wins & 13 nominations.|0796368|none
-N/A|0772178|none
-Nominated for 1 Oscar. Another 28 wins & 54 nominations.|0808417|nom
-2 wins & 5 nominations.|0841044|none
-Nominated for 1 Oscar. Another 26 wins & 45 nominations.|0368794|nom
-N/A|0859760|none
-1 nomination.|0804516|none
-Nominated for 2 Oscars. Another 25 wins & 64 nominations.|0443680|nom
-9 wins & 10 nominations.|0923752|none
-1 win & 17 nominations.|0448134|none
-32 wins & 21 nominations.|1024943|none
-2 nominations.|0866437|none
-N/A|0397044|none
-N/A|0800027|none
-4 wins & 1 nomination.|0469623|none
-Won 2 Oscars. Another 146 wins & 141 nominations.|0468569|won
+Won 2 Oscars. Another 146 wins & 142 nominations.|0468569|won
 Nominated for 2 Oscars. Another 19 wins & 61 nominations.|0371746|nom
-Nominated for 1 BAFTA Film Award. Another 9 wins & 34 nominations.|0367882|none
+Nominated for 1 BAFTA Film Award. Another 10 wins & 34 nominations.|0367882|none
 4 wins & 11 nominations.|0448157|none
 Won 1 Oscar. Another 86 wins & 85 nominations.|0910970|won
 Nominated for 1 Oscar. Another 14 wins & 38 nominations.|0441773|nom
-27 wins & 11 nominations.|1099212|none
+28 wins & 16 nominations.|1099212|none
 3 wins & 9 nominations.|0479952|none
 Nominated for 2 BAFTA Film Awards. Another 4 wins & 29 nominations.|0830515|none
 1 win & 17 nominations.|0451079|none
-1 win & 12 nominations.|1000774|none
+2 wins & 12 nominations.|1000774|none
 Nominated for 1 Golden Globe. Another 20 wins & 17 nominations.|1205489|none
 Nominated for 2 Golden Globes. Another 15 wins & 24 nominations.|0795421|none
 2 wins & 4 nominations.|0822832|none
 2 wins & 19 nominations.|0499448|none
-Won 8 Oscars. Another 142 wins & 120 nominations.|1010048|won
+Won 8 Oscars. Another 143 wins & 120 nominations.|1010048|won
 1 win & 8 nominations.|0800080|none
 Nominated for 2 Oscars. Another 3 wins & 20 nominations.|0493464|nom
 2 wins & 6 nominations.|0425061|none
@@ -1493,7 +853,7 @@ N/A|0494652|none
 3 nominations.|1047494|none
 1 nomination.|0956038|none
 1 nomination.|0467197|none
-2 nominations.|1034331|none
+1 win & 2 nominations.|1034331|none
 2 nominations.|0758774|none
 1 nomination.|0947802|none
 6 nominations.|1073498|none
@@ -1517,113 +877,25 @@ Won 2 Oscars. Another 57 wins & 137 nominations.|1013753|won
 9 nominations.|0981227|none
 2 wins & 4 nominations.|1007028|none
 2 wins & 3 nominations.|0406759|none
-3 nominations.|0379865|none
+1 win & 3 nominations.|0379865|none
 2 nominations.|0790686|none
 1 nomination.|0482603|none
 2 nominations.|0200465|none
 1 win.|0880578|none
 Nominated for 1 Oscar. Another 2 wins & 4 nominations.|1034303|nom
-4 wins & 4 nominations.|0430770|none
-2 nominations.|0479968|none
-3 nominations.|0467200|none
-1 nomination.|0421073|none
-Nominated for 2 Oscars. Another 56 wins & 83 nominations.|1125849|nom
-N/A|0482599|none
-1 win.|0426592|none
-1 win & 7 nominations.|1175491|none
-1 win.|1023111|none
-5 nominations.|0988047|none
-Won 1 Oscar. Another 30 wins & 51 nominations.|0497465|won
-Nominated for 3 Oscars. Another 19 wins & 62 nominations.|0959337|nom
-1 nomination.|0364970|none
-N/A|0443701|none
-2 nominations.|0951216|none
-3 wins.|0800308|none
-2 nominations.|0831887|none
-1 nomination.|0465502|none
-1 nomination.|1046163|none
-Nominated for 5 Oscars. Another 21 wins & 72 nominations.|0870111|nom
-2 wins & 5 nominations.|0846308|none
-6 nominations.|0963794|none
-1 nomination.|1027862|none
-2 nominations.|0482572|none
-1 nomination.|0814022|none
-Nominated for 2 Golden Globes. Another 1 win & 1 nomination.|1046947|none
-1 win & 6 nominations.|1213644|none
-Won 1 Oscar. Another 7 wins & 20 nominations.|0864761|won
-1 win & 2 nominations.|0486321|none
-1 nomination.|1045655|none
-3 wins & 2 nominations.|0995039|none
-2 wins & 1 nomination.|0815241|none
-N/A|0475998|none
-Nominated for 1 Oscar. Another 31 wins & 59 nominations.|1084950|nom
-N/A|3140704|none
-1 nomination.|0970468|none
-3 nominations.|1111948|none
-2 wins & 3 nominations.|0765476|none
-2 nominations.|1091751|none
-4 nominations.|0799934|none
-N/A|0483607|none
-2 wins & 5 nominations.|0489281|none
-3 nominations.|0844286|none
-1 win & 3 nominations.|0469903|none
-3 nominations.|0858479|none
-7 wins & 7 nominations.|0914798|none
-N/A|1135985|none
-Nominated for 1 Golden Globe. Another 7 wins & 19 nominations.|1042877|none
-1 win & 1 nomination.|0450314|none
-2 wins & 9 nominations.|1046997|none
-6 nominations.|0970411|none
-Nominated for 1 Oscar. Another 22 wins & 50 nominations.|0780536|nom
-2 wins.|1091617|none
-N/A|0996382|none
-N/A|0785007|none
-1 win & 4 nominations.|1151915|none
-N/A|1190617|none
-N/A|0489282|none
-10 nominations.|0412536|none
-N/A|1031969|none
-1 win & 5 nominations.|1032755|none
-4 nominations.|0893382|none
-1 win.|2440998|none
-3 nominations.|1104733|none
-N/A|0844671|none
-N/A|0800240|none
-1 win.|1054588|none
-4 nominations.|1001562|none
-1 win.|0914797|none
-Nominated for 1 Oscar. Another 10 wins & 26 nominations.|1068646|nom
-3 wins & 5 nominations.|0974554|none
-Nominated for 1 Oscar. Another 38 wins & 54 nominations.|1045670|nom
-22 wins & 25 nominations.|0449994|none
-15 wins & 19 nominations.|0861689|none
-Nominated for 2 Golden Globes. Another 14 wins & 27 nominations.|1068649|none
-8 wins & 25 nominations.|0383028|none
-Won 1 Oscar. Another 44 wins & 11 nominations.|1155592|won
-2 wins & 6 nominations.|1024715|none
-N/A|0455538|none
-Nominated for 2 Oscars. Another 32 wins & 36 nominations.|0978759|nom
-7 wins & 17 nominations.|1166100|none
-1 nomination.|1012804|none
-Nominated for 1 Oscar. Another 43 wins & 56 nominations.|1185616|nom
-N/A|0893325|none
-2 wins & 11 nominations.|0800241|none
-N/A|1027729|none
-2 wins & 4 nominations.|1146325|none
-Nominated for 1 BAFTA Film Award. Another 72 wins & 46 nominations.|1139797|none
-Won 3 Oscars. Another 77 wins & 116 nominations.|0499549|won
-Nominated for 1 Oscar. Another 13 wins & 25 nominations.|1055369|nom
-Nominated for 1 Oscar. Another 8 wins & 30 nominations.|0417741|nom
-17 wins & 23 nominations.|1259571|none
-Won 2 Oscars. Another 71 wins & 72 nominations.|1049413|won
+Won 3 Oscars. Another 80 wins & 121 nominations.|0499549|won
+Nominated for 1 Oscar. Another 14 wins & 26 nominations.|1055369|nom
+Nominated for 1 Oscar. Another 8 wins & 33 nominations.|0417741|nom
+18 wins & 23 nominations.|1259571|none
+Won 2 Oscars. Another 73 wins & 76 nominations.|1049413|won
 Won 1 Golden Globe. Another 10 wins & 26 nominations.|1119646|none
-Won 1 Oscar. Another 22 wins & 78 nominations.|0796366|won
+Won 1 Oscar. Another 23 wins & 86 nominations.|0796366|won
 Won 1 Oscar. Another 7 wins & 29 nominations.|0878804|won
 2 wins.|1231580|none
 Nominated for 2 Oscars. Another 10 wins & 25 nominations.|0988045|nom
 3 wins & 8 nominations.|0892782|none
 2 wins & 12 nominations.|1080016|none
-3 wins & 13 nominations.|0458525|none
+3 wins & 17 nominations.|0458525|none
 2 wins & 9 nominations.|1078912|none
 4 wins & 20 nominations.|1190080|none
 Nominated for 1 Golden Globe. Another 7 wins & 18 nominations.|1041829|none
@@ -1633,27 +905,27 @@ Nominated for 1 Golden Globe. Another 7 wins & 18 nominations.|1041829|none
 3 wins.|1310670|none
 3 wins & 4 nominations.|1067106|none
 1 win & 5 nominations.|0808151|none
-2 wins & 9 nominations.|0438488|none
+2 wins & 10 nominations.|0438488|none
 Nominated for 1 Golden Globe. Another 1 win & 13 nominations.|0844471|none
-Won 1 Oscar. Another 123 wins & 153 nominations.|0361748|won
+Won 1 Oscar. Another 124 wins & 153 nominations.|0361748|won
 1 win & 1 nomination.|0436339|none
-Nominated for 4 Oscars. Another 23 wins & 99 nominations.|1136608|nom
+Nominated for 4 Oscars. Another 24 wins & 104 nominations.|1136608|nom
 Nominated for 3 Golden Globes. Another 8 wins & 12 nominations.|1230414|none
 1 win & 4 nominations.|1078940|none
-12 wins & 20 nominations.|0409459|none
+12 wins & 21 nominations.|0409459|none
 Nominated for 3 Oscars. Another 12 wins & 39 nominations.|0780521|nom
 1 win & 14 nominations.|1152836|none
 Nominated for 1 Oscar. Another 24 wins & 46 nominations.|1135503|nom
 1 win & 3 nominations.|1001508|none
 1 win & 4 nominations.|1142800|none
 3 wins & 4 nominations.|1142988|none
-Nominated for 6 Oscars. Another 74 wins & 147 nominations.|1193138|nom
+Nominated for 6 Oscars. Another 76 wins & 152 nominations.|1193138|nom
 1 win & 5 nominations.|0448011|none
 6 wins & 10 nominations.|1114677|none
-Nominated for 1 Golden Globe. Another 7 wins & 44 nominations.|0386117|none
+Nominated for 1 Golden Globe. Another 7 wins & 48 nominations.|0386117|none
 9 wins & 26 nominations.|1156398|none
 Nominated for 1 Oscar. Another 7 wins & 41 nominations.|0327597|nom
-2 wins & 5 nominations.|1197624|none
+3 wins & 5 nominations.|1197624|none
 2 wins & 2 nominations.|0785006|none
 7 wins & 9 nominations.|1477715|none
 1 win & 8 nominations.|1155056|none
@@ -1661,7 +933,7 @@ Nominated for 1 Oscar. Another 7 wins & 41 nominations.|0327597|nom
 1 nomination.|1075417|none
 2 wins & 1 nomination.|1144884|none
 1 win & 7 nominations.|1111422|none
-2 wins & 3 nominations.|0758746|none
+2 wins & 4 nominations.|0758746|none
 3 wins & 4 nominations.|0974661|none
 1 win & 5 nominations.|0452694|none
 2 wins & 4 nominations.|0889583|none
@@ -1670,18 +942,18 @@ Nominated for 1 Oscar. Another 7 wins & 41 nominations.|0327597|nom
 1 win.|0821640|none
 2 nominations.|1201167|none
 1 win & 5 nominations.|1385912|none
-1 nomination.|1179891|none
+3 nominations.|1179891|none
 5 nominations.|0976238|none
 2 wins & 9 nominations.|0457400|none
 4 wins & 3 nominations.|1078588|none
-Won 2 Oscars. Another 111 wins & 93 nominations.|0929632|won
+Won 2 Oscars. Another 111 wins & 95 nominations.|0929632|won
 N/A|0834001|none
 1 win & 3 nominations.|1093908|none
-Nominated for 1 Oscar. Another 9 wins & 43 nominations.|0380510|nom
+Nominated for 1 Oscar. Another 10 wins & 43 nominations.|0380510|nom
 1 nomination.|1045778|none
 1 nomination.|1139668|none
 3 wins & 4 nominations.|0762125|none
-6 wins & 16 nominations.|1127180|none
+7 wins & 20 nominations.|1127180|none
 1 win & 6 nominations.|1148204|none
 Nominated for 1 Golden Globe. Another 1 win & 3 nominations.|1135487|none
 Won 2 Oscars. Another 35 wins & 29 nominations.|1263670|won
@@ -1695,11 +967,11 @@ Nominated for 2 Oscars. Another 10 wins & 33 nominations.|1057500|nom
 2 wins & 3 nominations.|0881891|none
 1 nomination.|1311067|none
 Nominated for 2 Golden Globes. Another 1 win & 17 nominations.|1130080|none
-1 win & 7 nominations.|0844708|none
+1 win & 8 nominations.|0844708|none
 1 win & 1 nomination.|1234548|none
-Nominated for 2 Golden Globes. Another 18 wins & 51 nominations.|1022603|none
+Nominated for 2 Golden Globes. Another 18 wins & 52 nominations.|1022603|none
 N/A|1757737|none
-Won 2 Oscars. Another 111 wins & 93 nominations.|0929632|won
+1 win & 2 nominations.|0465580|none
 8 nominations.|0472033|none
 1 win & 3 nominations.|0821642|none
 1 nomination.|1314228|none
@@ -1709,137 +981,54 @@ Nominated for 2 Golden Globes. Another 3 wins & 13 nominations.|0765010|none
 2 nominations.|1233227|none
 N/A|1153706|none
 1 nomination.|1220198|none
-1 nomination.|0963178|none
-2 nominations.|0775552|none
-1 win & 4 nominations.|1197628|none
-1 nomination.|1082601|none
-N/A|0899106|none
-1 nomination.|1016075|none
-Nominated for 2 Oscars. Another 29 wins & 56 nominations.|0432283|nom
-1 win & 1 nomination.|1100119|none
-1 win.|1034032|none
-Nominated for 4 Oscars. Another 8 wins & 56 nominations.|0875034|nom
-4 nominations.|0375568|none
-1 win & 4 nominations.|1229827|none
-1 nomination.|1058017|none
-N/A|1453978|none
-1 win.|1083456|none
-N/A|1095174|none
-2 wins & 4 nominations.|1131734|none
-1 win & 2 nominations.|0780567|none
-1 win & 4 nominations.|1091722|none
-N/A|0913354|none
-1 nomination.|0971209|none
-N/A|1092633|none
-6 nominations.|0362478|none
-1 win & 1 nomination.|1032815|none
-4 wins & 12 nominations.|1232207|none
-3 wins & 4 nominations.|1129445|none
-1 win.|0450405|none
-1 win & 2 nominations.|1121931|none
-8 nominations.|1172233|none
-Nominated for 3 Oscars. Another 34 wins & 89 nominations.|1174732|nom
-N/A|1160368|none
-2 nominations.|1232783|none
-Won 1 Oscar. Another 11 wins & 15 nominations.|0962736|won
-N/A|1225822|none
-1 win & 2 nominations.|0795438|none
-N/A|1188729|none
-N/A|0365929|none
-N/A|1300851|none
-N/A|1097013|none
-3 wins & 10 nominations.|1176740|none
-1 nomination.|1098327|none
-Nominated for 2 Oscars. Another 17 wins & 70 nominations.|1019452|nom
-Nominated for 1 Golden Globe. Another 1 win & 5 nominations.|0780511|none
-Nominated for 1 Oscar. Another 34 wins & 51 nominations.|1315981|nom
-N/A|0891592|none
-1 nomination.|0865559|none
-Nominated for 1 BAFTA Film Award. Another 5 wins & 30 nominations.|0898367|none
-1 win & 8 nominations.|1131729|none
-N/A|0844479|none
-Nominated for 2 Oscars. Another 4 wins & 20 nominations.|1054606|nom
-8 nominations.|1127896|none
-25 wins & 13 nominations.|1187043|none
-N/A|1142433|none
-Nominated for 1 Oscar. Another 5 wins & 18 nominations.|1035736|nom
-2 wins.|1178663|none
-N/A|0976222|none
-Nominated for 1 Golden Globe. Another 8 wins & 37 nominations.|0913425|none
-Won 1 BAFTA Film Award. Another 24 wins & 31 nominations.|1182345|none
-2 nominations.|1151922|none
-Nominated for 1 Oscar. Another 15 wins & 49 nominations.|0810784|nom
-5 wins & 8 nominations.|1213585|none
-2 wins & 5 nominations.|1331025|none
-N/A|5167030|none
-N/A|1427984|none
-3 wins & 2 nominations.|1179258|none
-14 wins & 18 nominations.|1127715|none
-2 wins & 3 nominations.|1185431|none
-17 wins & 45 nominations.|1275863|none
-Nominated for 1 Oscar. Another 15 wins & 39 nominations.|1226774|nom
-2 wins & 2 nominations.|1185836|none
-Nominated for 2 Oscars. Another 55 wins & 34 nominations.|1149362|nom
-N/A|1555183|none
-3 wins & 9 nominations.|1095217|none
-N/A|0918631|none
-N/A|1489965|none
-N/A|1144804|none
-N/A|1220628|none
-N/A|1440770|none
-2 wins & 18 nominations.|1274295|none
-1 win & 3 nominations.|1331064|none
-1 win.|1334479|none
-Nominated for 2 Oscars. Another 15 wins & 44 nominations.|0790712|nom
-1 win & 5 nominations.|1328634|none
-Won 2 Oscars. Another 57 wins & 89 nominations.|0435761|won
-Won 2 Oscars. Another 30 wins & 60 nominations.|1014759|won
+Won 2 Oscars. Another 58 wins & 89 nominations.|0435761|won
+Won 2 Oscars. Another 31 wins & 60 nominations.|1014759|won
 Nominated for 1 Oscar. Another 7 wins & 40 nominations.|1228705|nom
 23 wins & 33 nominations.|1325004|none
-Nominated for 2 Oscars. Another 14 wins & 50 nominations.|0926084|nom
-Won 4 Oscars. Another 139 wins & 192 nominations.|1375666|won
+Nominated for 2 Oscars. Another 14 wins & 51 nominations.|0926084|nom
+Won 4 Oscars. Another 144 wins & 198 nominations.|1375666|won
 Nominated for 1 Golden Globe. Another 3 wins & 38 nominations.|1323594|none
 1 win & 12 nominations.|0892791|none
 Nominated for 2 Oscars. Another 25 wins & 58 nominations.|0892769|nom
 Nominated for 1 Oscar. Another 9 wins & 39 nominations.|0398286|nom
 5 wins & 13 nominations.|1155076|none
-Nominated for 1 Oscar. Another 10 wins & 45 nominations.|1104001|nom
+Nominated for 1 Oscar. Another 10 wins & 48 nominations.|1104001|nom
 Nominated for 10 Oscars. Another 37 wins & 148 nominations.|1403865|nom
-2 wins & 12 nominations.|0800320|none
+4 wins & 12 nominations.|0800320|none
 3 wins & 4 nominations.|1375670|none
 3 wins & 4 nominations.|0970866|none
 2 wins & 16 nominations.|1001526|none
-Won 4 Oscars. Another 100 wins & 185 nominations.|1504320|won
+Won 4 Oscars. Another 101 wins & 190 nominations.|1504320|won
 8 wins & 12 nominations.|0938283|none
-8 wins & 58 nominations.|1130884|none
+8 wins & 59 nominations.|1130884|none
 3 wins & 14 nominations.|1386588|none
 Nominated for 1 Oscar. Another 4 wins & 16 nominations.|0944835|nom
 1 win & 4 nominations.|1116184|none
 6 wins & 12 nominations.|0817230|none
-Won 1 Oscar. Another 87 wins & 242 nominations.|0947798|won
+Won 1 Oscar. Another 90 wins & 245 nominations.|0947798|won
 1 win & 16 nominations.|0955308|none
 Nominated for 1 Golden Globe. Another 1 win & 16 nominations.|0980970|none
 3 wins & 5 nominations.|1320253|none
 6 nominations.|1231583|none
 2 wins & 1 nomination.|1302067|none
 4 wins & 8 nominations.|1279935|none
-Won 3 Oscars. Another 161 wins & 161 nominations.|1285016|won
+Won 3 Oscars. Another 161 wins & 162 nominations.|1285016|won
 8 wins & 8 nominations.|1261945|none
 3 wins & 16 nominations.|1037705|none
-Won 2 Oscars. Another 69 wins & 113 nominations.|0964517|won
+Won 2 Oscars. Another 70 wins & 113 nominations.|0964517|won
 Nominated for 1 Oscar. Another 9 wins & 44 nominations.|0840361|nom
-9 nominations.|0473075|none
+1 win & 9 nominations.|0473075|none
 Nominated for 1 Golden Globe. Another 3 wins & 17 nominations.|1245526|none
 11 nominations.|0814255|none
 1 win & 2 nominations.|1536044|none
 Nominated for 1 Oscar. Another 1 win & 13 nominations.|0477080|nom
-1 win & 2 nominations.|0879870|none
+2 wins & 2 nominations.|0879870|none
 4 wins & 7 nominations.|0989757|none
-1 win & 4 nominations.|0429493|none
+2 wins & 4 nominations.|0429493|none
 4 nominations.|1013743|none
 1 nomination.|0427152|none
-Nominated for 3 Golden Globes. Another 3 wins & 2 nominations.|1243957|none
-1 win & 5 nominations.|1038919|none
+Nominated for 3 Golden Globes. Another 3 wins & 3 nominations.|1243957|none
+3 wins & 5 nominations.|1038919|none
 5 wins & 8 nominations.|1196141|none
 1 win & 1 nomination.|0963966|none
 2 wins & 11 nominations.|1179056|none
@@ -1859,7 +1048,7 @@ Nominated for 1 Golden Globe. Another 1 win & 3 nominations.|1027718|none
 2 wins & 4 nominations.|1424381|none
 1 win.|1433813|none
 4 nominations.|1231587|none
-16 wins & 61 nominations.|1250777|none
+17 wins & 61 nominations.|1250777|none
 2 wins & 3 nominations.|1103153|none
 3 nominations.|1477076|none
 1 nomination.|1385867|none
@@ -1883,93 +1072,15 @@ Nominated for 1 Oscar. Another 4 wins & 13 nominations.|1212419|nom
 2 nominations.|1185416|none
 Nominated for 2 Golden Globes. Another 1 win & 4 nominations.|0758752|none
 1 nomination.|0815236|none
-16 wins & 56 nominations.|0446029|none
+17 wins & 58 nominations.|0446029|none
 4 nominations.|1438254|none
-3 nominations.|1126618|none
+1 win & 3 nominations.|1126618|none
 2 nominations.|1341188|none
 N/A|1784399|none
 1 win & 3 nominations.|1415283|none
-2 nominations.|0889573|none
+1 win & 2 nominations.|0889573|none
 2 wins & 6 nominations.|0985694|none
-1 win & 3 nominations.|0493949|none
-N/A|1216492|none
-2 wins.|1414382|none
-1 nomination.|1213012|none
-2 wins & 12 nominations.|0464154|none
-N/A|0979434|none
-2 nominations.|1273678|none
-N/A|1179034|none
-1 win & 7 nominations.|0480255|none
-5 nominations.|1433108|none
-1 win & 10 nominations.|1407061|none
-1 nomination.|1564585|none
-4 nominations.|1458175|none
-Nominated for 4 Oscars. Another 29 wins & 114 nominations.|0842926|nom
-3 nominations.|1305583|none
-Nominated for 1 Oscar. Another 1 win & 6 nominations.|1555064|nom
-3 wins & 4 nominations.|1498858|none
-4 wins & 3 nominations.|1403981|none
-Nominated for 6 Oscars. Another 23 wins & 136 nominations.|1542344|nom
-N/A|1322312|none
-1 nomination.|0492389|none
-N/A|1645909|none
-32 wins & 51 nominations.|1139328|none
-1 nomination.|0872230|none
-2 nominations.|1053424|none
-14 wins & 28 nominations.|1228987|none
-N/A|1244659|none
-1 win & 4 nominations.|1075747|none
-Nominated for 1 Oscar. Another 7 wins & 50 nominations.|1120985|nom
-3 wins & 9 nominations.|0977855|none
-1 nomination.|1470023|none
-6 nominations.|1336617|none
-3 nominations.|1020938|none
-8 wins & 8 nominations.|1244754|none
-N/A|1683981|none
-N/A|1738294|none
-Nominated for 4 Oscars. Another 63 wins & 117 nominations.|1399683|nom
-15 wins & 26 nominations.|1566648|none
-2 nominations.|0804497|none
-1 win.|1529567|none
-N/A|1032751|none
-Won 1 Oscar. Another 7 wins & 26 nominations.|1645089|won
-2 wins & 14 nominations.|1234654|none
-5 wins & 16 nominations.|0878835|none
-10 wins & 11 nominations.|1188996|none
-N/A|1820647|none
-5 nominations.|1017451|none
-Nominated for 1 Oscar. Another 24 wins & 27 nominations.|1587707|nom
-2 wins & 2 nominations.|1182350|none
-2 wins & 6 nominations.|1584016|none
-Nominated for 1 Oscar. Another 20 wins & 52 nominations.|1431181|nom
-N/A|2023432|none
-4 wins & 12 nominations.|1568150|none
-1 nomination.|1462054|none
-N/A|1289419|none
-7 wins & 26 nominations.|1334260|none
-Nominated for 1 Oscar. Another 6 wins & 29 nominations.|0775489|nom
-Nominated for 1 Oscar. Another 7 wins & 39 nominations.|0935075|nom
-N/A|1423995|none
-4 wins & 7 nominations.|1421051|none
-1 win & 3 nominations.|0817177|none
-N/A|1198101|none
-1 win & 14 nominations.|1291465|none
-N/A|1839405|none
-Nominated for 1 Oscar. Another 10 wins & 19 nominations.|1559549|nom
-18 wins & 8 nominations.|1620719|none
-5 wins & 11 nominations.|1573072|none
-1 win & 6 nominations.|1562859|none
-Nominated for 3 BAFTA Film Awards. Another 3 wins & 14 nominations.|1371155|none
-3 wins & 2 nominations.|1572311|none
-15 wins & 32 nominations.|1462758|none
-Nominated for 1 Oscar. Another 38 wins & 54 nominations.|1313092|nom
-Nominated for 1 Golden Globe. Another 1 win & 1 nomination.|1194417|none
-N/A|1651930|none
-N/A|2504572|none
-3 wins & 11 nominations.|1438298|none
-2 wins & 1 nomination.|1509276|none
-N/A|1778277|none
-Nominated for 3 Oscars. Another 45 wins & 87 nominations.|1201607|nom
+Nominated for 3 Oscars. Another 46 wins & 87 nominations.|1201607|nom
 Nominated for 3 Oscars. Another 10 wins & 40 nominations.|1399103|nom
 11 wins & 21 nominations.|1324999|none
 5 wins & 16 nominations.|1411697|none
@@ -1977,12 +1088,12 @@ Nominated for 3 Oscars. Another 10 wins & 40 nominations.|1399103|nom
 8 wins & 19 nominations.|1596343|none
 5 wins & 31 nominations.|1229238|none
 Nominated for 1 Golden Globe. Another 1 win & 16 nominations.|1216475|none
-2 wins & 10 nominations.|1515091|none
+2 wins & 11 nominations.|1515091|none
 5 wins & 29 nominations.|0800369|none
-Nominated for 1 Oscar. Another 19 wins & 41 nominations.|1318514|nom
-3 wins & 42 nominations.|0458339|none
-Won 1 Oscar. Another 79 wins & 108 nominations.|1454029|won
-Nominated for 2 Oscars. Another 24 wins & 65 nominations.|1478338|nom
+Nominated for 1 Oscar. Another 20 wins & 41 nominations.|1318514|nom
+3 wins & 43 nominations.|0458339|none
+Won 1 Oscar. Another 79 wins & 112 nominations.|1454029|won
+Nominated for 2 Oscars. Another 25 wins & 67 nominations.|1478338|nom
 Nominated for 1 Oscar. Another 5 wins & 44 nominations.|1302011|nom
 Nominated for 1 Oscar. Another 7 wins & 42 nominations.|0448694|nom
 20 wins & 35 nominations.|1270798|none
@@ -1990,15 +1101,15 @@ Nominated for 1 Oscar. Another 3 wins & 28 nominations.|1436562|nom
 2 wins & 7 nominations.|0472181|none
 2 wins & 1 nomination.|1615918|none
 11 wins & 62 nominations.|1650062|none
-Won 1 Oscar. Another 44 wins & 24 nominations.|1192628|won
+Won 1 Oscar. Another 45 wins & 24 nominations.|1192628|won
 3 wins & 10 nominations.|1499658|none
 2 wins & 5 nominations.|1133985|none
 2 nominations.|1411704|none
 1 win & 5 nominations.|1778304|none
 5 wins & 11 nominations.|1564367|none
-Won 1 Oscar. Another 25 wins & 81 nominations.|1568346|won
+Won 1 Oscar. Another 27 wins & 85 nominations.|1568346|won
 6 wins & 3 nominations.|1284575|none
-17 nominations.|0409847|none
+1 win & 17 nominations.|0409847|none
 Nominated for 1 Golden Globe. Another 1 win & 10 nominations.|0377981|none
 3 wins & 7 nominations.|0990407|none
 Won 1 Oscar. Another 15 wins & 41 nominations.|1204342|won
@@ -2006,42 +1117,42 @@ Nominated for 1 Oscar. Another 2 wins & 5 nominations.|0433035|nom
 Nominated for 1 Golden Globe. Another 3 wins & 20 nominations.|1570728|none
 1 win & 2 nominations.|1217613|none
 1 win & 6 nominations.|1253864|none
-Won 1 Oscar. Another 65 wins & 139 nominations.|1033575|won
+Won 1 Oscar. Another 66 wins & 140 nominations.|1033575|won
 1 win & 2 nominations.|1222817|none
-Nominated for 6 Oscars. Another 16 wins & 68 nominations.|1568911|nom
+Nominated for 6 Oscars. Another 16 wins & 70 nominations.|1568911|nom
 2 wins & 7 nominations.|1219289|none
 3 nominations.|0471042|none
 Nominated for 1 Oscar. Another 22 wins & 59 nominations.|0983193|nom
 2 wins & 12 nominations.|1598778|none
 1 win & 8 nominations.|1389137|none
-Nominated for 6 Oscars. Another 29 wins & 73 nominations.|1210166|nom
-13 wins & 5 nominations.|0810913|none
-Won 5 Oscars. Another 53 wins & 165 nominations.|0970179|won
-2 wins & 6 nominations.|1702443|none
+Nominated for 6 Oscars. Another 29 wins & 74 nominations.|1210166|nom
+14 wins & 5 nominations.|0810913|none
+Won 5 Oscars. Another 55 wins & 175 nominations.|0970179|won
+2 wins & 7 nominations.|1702443|none
 2 wins & 4 nominations.|1564349|none
 2 wins & 6 nominations.|1411238|none
 1 win & 3 nominations.|1396218|none
-1 win & 9 nominations.|1402488|none
+2 wins & 9 nominations.|1402488|none
 3 nominations.|1401152|none
 1 win & 9 nominations.|1385826|none
 3 wins & 11 nominations.|1067583|none
 1 nomination.|1189340|none
-Won 1 Oscar. Another 22 wins & 95 nominations.|1605783|won
+Won 1 Oscar. Another 23 wins & 96 nominations.|1605783|won
 5 nominations.|1632708|none
 1 win & 1 nomination.|1464540|none
 1 win & 8 nominations.|0945513|none
-1 win & 8 nominations.|1598822|none
+2 wins & 8 nominations.|1598822|none
 1 win.|1787759|none
 1 win & 5 nominations.|1650043|none
 3 nominations.|1068242|none
 1 nomination.|1578275|none
-Nominated for 1 Golden Globe. Another 3 wins & 20 nominations.|1430607|none
+Nominated for 1 Golden Globe. Another 3 wins & 21 nominations.|1430607|none
 N/A|0480687|none
-Won 5 Oscars. Another 145 wins & 180 nominations.|1655442|won
+Won 5 Oscars. Another 146 wins & 185 nominations.|1655442|won
 1 win & 12 nominations.|1596346|none
 2 wins & 4 nominations.|1622979|none
 Nominated for 1 Oscar. Another 9 wins & 34 nominations.|1124035|nom
-5 wins & 26 nominations.|0993842|none
+6 wins & 25 nominations.|0993842|none
 4 nominations.|0491152|none
 4 nominations.|1517489|none
 1 win & 6 nominations.|1262416|none
@@ -2058,133 +1169,49 @@ N/A|1622547|none
 1 win & 8 nominations.|0978764|none
 3 nominations.|1583420|none
 1 nomination.|1268799|none
-Nominated for 1 Oscar. Another 71 wins & 157 nominations.|0780504|nom
-Nominated for 2 Golden Globes. Another 12 wins & 25 nominations.|1306980|none
+Nominated for 1 Oscar. Another 74 wins & 162 nominations.|0780504|nom
+Nominated for 2 Golden Globes. Another 12 wins & 26 nominations.|1306980|none
 2 wins & 2 nominations.|1630036|none
 1 win & 4 nominations.|1161864|none
 3 wins & 5 nominations.|1334512|none
 Nominated for 2 Oscars. Another 8 wins & 24 nominations.|0477302|nom
 2 nominations.|1366344|none
-Won 2 Oscars. Another 22 wins & 46 nominations.|1007029|won
-3 nominations.|0822847|none
-1 nomination.|0472399|none
-2 wins & 3 nominations.|1600195|none
-1 win & 1 nomination.|1152398|none
-2 wins & 25 nominations.|1449283|none
-2 wins & 7 nominations.|1448755|none
-2 nominations.|0479997|none
-N/A|1637706|none
-2 wins.|1680059|none
-Nominated for 3 Oscars. Another 34 wins & 87 nominations.|1340800|nom
-1 win & 1 nomination.|0881320|none
-4 nominations.|1067774|none
-1 win & 3 nominations.|1240982|none
-1 nomination.|1093357|none
-2 nominations.|1305591|none
-1 nomination.|1462041|none
-2 nominations.|0816462|none
-4 nominations.|1509767|none
-1 nomination.|1034389|none
-1 nomination.|1633356|none
-2 wins & 7 nominations.|1438176|none
-1 win & 1 nomination.|1772240|none
-4 nominations.|0905372|none
-Nominated for 1 Golden Globe. Another 3 wins & 29 nominations.|1625346|none
-3 nominations.|1223236|none
-1 win & 4 nominations.|1547230|none
-Nominated for 2 Oscars. Another 19 wins & 59 nominations.|1655420|nom
-N/A|0770703|none
-1 win & 2 nominations.|1563738|none
-Nominated for 1 Oscar. Another 6 wins & 19 nominations.|1291584|nom
-Nominated for 3 Oscars. Another 101 wins & 108 nominations.|0478304|nom
-2 wins & 4 nominations.|0376136|none
-N/A|1922612|none
-Nominated for 1 Oscar. Another 9 wins & 14 nominations.|1229822|nom
-1 win & 6 nominations.|1502404|none
-2 nominations.|0999913|none
-5 wins & 22 nominations.|1606392|none
-1 win & 1 nomination.|0844993|none
-1 nomination.|1604171|none
-2 wins & 2 nominations.|1742650|none
-2 nominations.|1634122|none
-1 win & 1 nomination.|1999192|none
-N/A|1053810|none
-Won 1 Oscar. Another 76 wins & 42 nominations.|1832382|won
-1 nomination.|0810922|none
-1 win & 4 nominations.|1477837|none
-2 wins.|1777610|none
-Nominated for 1 Golden Globe. Another 18 wins & 26 nominations.|1571222|none
-Nominated for 1 Golden Globe. Another 14 wins & 25 nominations.|1540133|none
-Nominated for 1 Oscar. Another 8 wins & 23 nominations.|1615147|nom
-1 win.|0480239|none
-Nominated for 1 Oscar. Another 7 wins & 8 nominations.|1521197|nom
-5 nominations.|1699147|none
-10 wins & 12 nominations.|1753549|none
-N/A|2072107|none
-Nominated for 1 Golden Globe. Another 48 wins & 88 nominations.|1723811|none
-2 wins & 6 nominations.|1285241|none
-Nominated for 1 Oscar. Another 10 wins & 23 nominations.|1440266|nom
-9 wins & 6 nominations.|1758692|none
-N/A|3643858|none
-Nominated for 1 Golden Globe. Another 24 wins & 63 nominations.|1189073|none
-19 wins & 16 nominations.|1562872|none
-2 wins & 2 nominations.|0893412|none
-32 wins & 85 nominations.|1527186|none
-22 wins & 68 nominations.|1441326|none
-N/A|1753798|none
-N/A|3572698|none
-Nominated for 2 Golden Globes. Another 7 wins & 19 nominations.|1692486|none
-1 win & 6 nominations.|1411664|none
-9 wins & 6 nominations.|1562871|none
-5 wins & 16 nominations.|1411697|none
-4 wins & 10 nominations.|1729637|none
-Nominated for 1 Oscar. Another 6 wins & 8 nominations.|1554091|nom
-Nominated for 1 Golden Globe. Another 26 wins & 61 nominations.|1242460|none
-41 wins & 35 nominations.|1675192|none
-N/A|2131617|none
-1 win & 1 nomination.|1464540|none
-4 wins & 6 nominations.|1934231|none
-1 win & 2 nominations.|1645080|none
-1 win & 1 nomination.|0461336|none
-N/A|2096563|none
-2 nominations.|1270262|none
-N/A|2447024|none
-1 win & 1 nomination.|1541995|none
-Nominated for 1 Oscar. Another 36 wins & 77 nominations.|0848228|nom
-Nominated for 1 BAFTA Film Award. Another 38 wins & 100 nominations.|1345836|none
-Nominated for 1 Golden Globe. Another 34 wins & 42 nominations.|1392170|none
+Won 2 Oscars. Another 23 wins & 46 nominations.|1007029|won
+Nominated for 1 Oscar. Another 34 wins & 75 nominations.|0848228|nom
+Nominated for 1 BAFTA Film Award. Another 38 wins & 96 nominations.|1345836|none
+Nominated for 1 Golden Globe. Another 33 wins & 42 nominations.|1392170|none
 Won 2 Oscars. Another 64 wins & 115 nominations.|1074638|won
-Nominated for 3 Oscars. Another 9 wins & 69 nominations.|0903624|nom
-20 wins & 11 nominations.|1673434|none
-2 wins & 32 nominations.|0948470|none
+Nominated for 3 Oscars. Another 10 wins & 70 nominations.|0903624|nom
+21 wins & 11 nominations.|1673434|none
+2 wins & 31 nominations.|0948470|none
 Won 1 Oscar. Another 18 wins & 47 nominations.|1217209|won
-Nominated for 1 Oscar. Another 13 wins & 27 nominations.|1637725|nom
-1 win & 21 nominations.|1277953|none
+Nominated for 1 Oscar. Another 13 wins & 26 nominations.|1637725|nom
+1 win & 20 nominations.|1277953|none
 3 wins & 8 nominations.|1482459|none
-Nominated for 1 Oscar. Another 32 wins & 40 nominations.|1772341|nom
-Won 2 Oscars. Another 107 wins & 235 nominations.|0443272|won
-1 win & 13 nominations.|1409024|none
-Won 2 Oscars. Another 52 wins & 137 nominations.|1853728|won
+Nominated for 1 Oscar. Another 33 wins & 40 nominations.|1772341|nom
+Won 2 Oscars. Another 108 wins & 242 nominations.|0443272|won
+1 win & 11 nominations.|1409024|none
+Won 2 Oscars. Another 53 wins & 143 nominations.|1853728|won
 2 wins & 10 nominations.|1667889|none
 Nominated for 2 Oscars. Another 13 wins & 31 nominations.|1735898|nom
 Won 3 Oscars. Another 80 wins & 170 nominations.|1707386|won
-Nominated for 1 Golden Globe. Another 3 wins & 14 nominations.|0837562|none
-1 win & 3 nominations.|1397280|none
-11 wins & 20 nominations.|1232829|none
-Won 3 Oscars. Another 89 wins & 146 nominations.|1024648|won
-Won 1 Oscar. Another 87 wins & 146 nominations.|1045658|won
+Nominated for 1 Golden Globe. Another 2 wins & 14 nominations.|0837562|none
+1 win & 2 nominations.|1397280|none
+11 wins & 18 nominations.|1232829|none
+Won 3 Oscars. Another 92 wins & 150 nominations.|1024648|won
+Won 1 Oscar. Another 87 wins & 145 nominations.|1045658|won
 Nominated for 1 Oscar. Another 6 wins & 43 nominations.|1446714|nom
 1 win & 7 nominations.|1599348|none
-3 wins & 16 nominations.|1606389|none
-Won 4 Oscars. Another 74 wins & 119 nominations.|0454876|won
-8 wins & 15 nominations.|1915581|none
+3 wins & 14 nominations.|1606389|none
+Won 4 Oscars. Another 76 wins & 125 nominations.|0454876|won
+8 wins & 13 nominations.|1915581|none
 1 win & 11 nominations.|1194173|none
 3 wins & 4 nominations.|1397514|none
 Nominated for 1 Golden Globe. Another 14 wins & 30 nominations.|1446192|none
 Won 1 Oscar. Another 84 wins & 167 nominations.|1790885|won
 Nominated for 2 Oscars. Another 16 wins & 41 nominations.|1907668|nom
 4 wins & 13 nominations.|1621045|none
-2 wins & 6 nominations.|1790886|none
+2 wins & 4 nominations.|1790886|none
 3 wins & 5 nominations.|1764651|none
 2 wins & 2 nominations.|1646987|none
 1 win & 4 nominations.|0790724|none
@@ -2194,21 +1221,21 @@ Nominated for 2 Oscars. Another 16 wins & 41 nominations.|1907668|nom
 Nominated for 1 Golden Globe. Another 1 win & 6 nominations.|1591479|none
 2 wins & 10 nominations.|1758830|none
 N/A|1524137|none
-15 wins & 42 nominations.|1276104|none
+15 wins & 43 nominations.|1276104|none
 1 win & 5 nominations.|2215285|none
 4 wins & 14 nominations.|1440129|none
 6 wins & 20 nominations.|1981677|none
 Nominated for 1 Oscar. Another 2 wins & 8 nominations.|1667353|nom
 2 wins & 6 nominations.|1706593|none
-Nominated for 1 Golden Globe. Another 2 wins & 4 nominations.|1535438|none
+Nominated for 1 Golden Globe. Another 2 wins & 3 nominations.|1535438|none
 1 win.|1496025|none
-6 wins & 7 nominations.|1327194|none
+5 wins & 7 nominations.|1327194|none
 1 win & 1 nomination.|1645170|none
 1 win & 5 nominations.|1386703|none
 N/A|2495766|none
 1 win & 3 nominations.|1605630|none
-Nominated for 1 Oscar. Another 19 wins & 43 nominations.|1623288|nom
-1 win & 6 nominations.|1596350|none
+Nominated for 1 Oscar. Another 19 wins & 44 nominations.|1623288|nom
+1 win & 5 nominations.|1596350|none
 4 nominations.|1636826|none
 5 wins & 12 nominations.|1596365|none
 2 wins.|2109184|none
@@ -2220,19 +1247,19 @@ Nominated for 1 Oscar. Another 19 wins & 43 nominations.|1623288|nom
 3 wins & 13 nominations.|1922777|none
 1 win.|2184140|none
 6 nominations.|1615065|none
-Nominated for 1 Oscar. Another 37 wins & 115 nominations.|1748122|nom
+Nominated for 1 Oscar. Another 37 wins & 117 nominations.|1748122|nom
 3 nominations.|1648179|none
-2 wins & 4 nominations.|1234719|none
+1 win & 4 nominations.|1234719|none
 4 nominations.|0383010|none
 2 wins & 5 nominations.|1855325|none
 18 wins & 33 nominations.|1259521|none
-13 nominations.|1586265|none
-3 wins & 11 nominations.|1855199|none
+12 nominations.|1586265|none
+3 wins & 10 nominations.|1855199|none
 1 win & 9 nominations.|1336608|none
 1 nomination.|1611224|none
 1 win & 8 nominations.|1212450|none
 1 nomination.|1694020|none
-6 wins & 10 nominations.|1232200|none
+5 wins & 10 nominations.|1232200|none
 2 wins & 1 nomination.|2083383|none
 2 nominations.|1298649|none
 Nominated for 1 Oscar. Another 11 wins & 47 nominations.|1142977|nom
@@ -2240,125 +1267,45 @@ N/A|1800741|none
 5 nominations.|1885265|none
 N/A|1686902|none
 1 nomination.|2247692|none
-2 wins & 3 nominations.|1582507|none
+1 win & 3 nominations.|1582507|none
 Nominated for 1 Oscar. Another 19 nominations.|1430626|nom
 1 nomination.|1710396|none
 2 nominations.|1222815|none
-1 nomination.|1195478|none
-Nominated for 1 Golden Globe. Another 16 wins & 70 nominations.|1371111|none
-1 win & 1 nomination.|1598828|none
-4 nominations.|1712170|none
-1 win.|2215719|none
-7 nominations.|1876451|none
-1 win & 5 nominations.|1547234|none
-1 nomination.|1430615|none
-Nominated for 1 Oscar. Another 27 wins & 64 nominations.|1649419|nom
-1 nomination.|1568338|none
-3 nominations.|0763831|none
-1 nomination.|1991245|none
-19 wins & 48 nominations.|1659337|none
-7 nominations.|0938330|none
-1 win.|1655460|none
-2 nominations.|1656190|none
-1 win & 5 nominations.|1859650|none
-Nominated for 3 Oscars. Another 76 wins & 177 nominations.|1560747|nom
-4 nominations.|1486192|none
-3 nominations.|1258972|none
-3 wins & 8 nominations.|1764234|none
-3 wins & 21 nominations.|1931533|none
-1 win & 1 nomination.|2073128|none
-1 nomination.|1592525|none
-1 win.|2097307|none
-2 wins & 14 nominations.|1343727|none
-3 nominations.|1540128|none
-Won 1 Oscar. Another 28 wins & 52 nominations.|1781769|won
-Nominated for 4 Oscars. Another 91 wins & 123 nominations.|2125435|nom
-N/A|3462264|none
-1 nomination.|1792647|none
-N/A|1716777|none
-N/A|1838544|none
-1 win & 3 nominations.|1840417|none
-N/A|1663143|none
-Nominated for 1 Golden Globe. Another 4 wins & 4 nominations.|1764183|none
-3 wins & 6 nominations.|2091473|none
-N/A|2799692|none
-4 nominations.|1307068|none
-N/A|1748227|none
-Won 1 Oscar. Another 76 wins & 101 nominations.|1602620|won
-Nominated for 1 Golden Globe. Another 1 win & 4 nominations.|1477855|none
-Nominated for 1 Oscar. Another 4 wins & 27 nominations.|0975645|nom
-N/A|1629757|none
-Nominated for 1 Oscar. Another 18 wins & 62 nominations.|1866249|nom
-2 wins & 5 nominations.|1702425|none
-2 wins & 9 nominations.|1566501|none
-1 win & 3 nominations.|1870529|none
-1 nomination.|1433822|none
-7 wins & 18 nominations.|1862079|none
-2 nominations.|1366365|none
-Won 1 Oscar. Another 37 wins & 30 nominations.|2125608|won
-N/A|1815852|none
-3 nominations.|1985017|none
-N/A|2359137|none
-2 wins & 6 nominations.|1990314|none
-4 nominations.|1405365|none
-13 wins & 19 nominations.|2176013|none
-5 wins & 12 nominations.|1787988|none
-35 wins & 21 nominations.|2082197|none
-N/A|2911094|none
-6 wins & 3 nominations.|1817676|none
-1 win & 10 nominations.|1839492|none
-6 wins & 6 nominations.|2112131|none
-8 wins & 26 nominations.|2125666|none
-9 wins & 3 nominations.|2016894|none
-3 wins & 4 nominations.|2077851|none
-Nominated for 2 Golden Globes. Another 32 wins & 67 nominations.|2053425|none
-N/A|2574378|none
-12 wins & 19 nominations.|1849718|none
-7 wins & 15 nominations.|2181931|none
-N/A|1954352|none
-9 wins & 7 nominations.|1980986|none
-N/A|2513552|none
-N/A|3509488|none
-6 wins & 12 nominations.|1753813|none
-1 nomination.|1226240|none
-Nominated for 1 Oscar. Another 21 wins & 36 nominations.|1276419|nom
-Nominated for 1 BAFTA Film Award. Another 1 win & 7 nominations.|1183919|none
-Nominated for 1 Oscar. Another 9 wins & 3 nominations.|1579361|nom
-N/A|1535421|none
+N/A|1195478|none
 Nominated for 1 Golden Globe. Another 21 wins & 59 nominations.|1951264|none
-Nominated for 1 Oscar. Another 17 wins & 52 nominations.|1300854|nom
-Won 2 Oscars. Another 70 wins & 56 nominations.|2294629|won
+Nominated for 1 Oscar. Another 17 wins & 53 nominations.|1300854|nom
+Won 2 Oscars. Another 72 wins & 57 nominations.|2294629|won
 Nominated for 2 Oscars. Another 12 wins & 63 nominations.|1690953|nom
 7 wins & 42 nominations.|0770828|none
-Won 7 Oscars. Another 213 wins & 168 nominations.|1454468|won
+Won 7 Oscars. Another 215 wins & 169 nominations.|1454468|won
 Nominated for 1 BAFTA Film Award. Another 9 wins & 54 nominations.|1453405|none
 Nominated for 3 Oscars. Another 14 wins & 80 nominations.|1170358|nom
 8 wins & 21 nominations.|1905041|none
 5 wins & 31 nominations.|1623205|none
-Nominated for 1 Oscar. Another 6 wins & 45 nominations.|1408101|nom
+Nominated for 1 Oscar. Another 6 wins & 46 nominations.|1408101|nom
 2 wins & 18 nominations.|1981115|none
 3 wins & 23 nominations.|0816711|none
 Nominated for 1 Oscar. Another 5 wins & 41 nominations.|0481499|nom
 7 wins & 15 nominations.|2404463|none
 3 wins & 14 nominations.|1723121|none
-Nominated for 10 Oscars. Another 65 wins & 202 nominations.|1800241|nom
-Won 2 Oscars. Another 43 wins & 73 nominations.|1343092|won
+Nominated for 10 Oscars. Another 66 wins & 202 nominations.|1800241|nom
+Won 2 Oscars. Another 44 wins & 74 nominations.|1343092|won
 14 wins & 21 nominations.|1457767|none
 1 win & 8 nominations.|2024432|none
-4 wins & 15 nominations.|2191701|none
-2 wins & 10 nominations.|1430132|none
+5 wins & 15 nominations.|2191701|none
+2 wins & 11 nominations.|1430132|none
 1 win & 23 nominations.|1229340|none
 Nominated for 2 Oscars. Another 5 wins & 14 nominations.|1091191|nom
 1 win & 11 nominations.|1583421|none
 16 nominations.|1985966|none
 1 win & 3 nominations.|1670345|none
-Nominated for 5 Oscars. Another 35 wins & 154 nominations.|0993846|nom
-Nominated for 2 BAFTA Film Awards. Another 17 wins & 50 nominations.|1327773|none
+Nominated for 5 Oscars. Another 36 wins & 155 nominations.|0993846|nom
+Nominated for 2 BAFTA Film Awards. Another 18 wins & 50 nominations.|1327773|none
 2 wins & 6 nominations.|1951261|none
 2 wins & 21 nominations.|0848537|none
-Nominated for 6 Oscars. Another 16 wins & 137 nominations.|1535109|nom
-Nominated for 1 Oscar. Another 1 win & 8 nominations.|3063516|nom
-Nominated for 1 BAFTA Film Award. Another 4 wins & 42 nominations.|1663662|none
+Nominated for 6 Oscars. Another 16 wins & 138 nominations.|1535109|nom
+Nominated for 1 Oscar. Another 2 wins & 8 nominations.|3063516|nom
+Nominated for 1 BAFTA Film Award. Another 5 wins & 42 nominations.|1663662|none
 10 wins & 19 nominations.|1245492|none
 1 win & 5 nominations.|2302755|none
 3 wins & 17 nominations.|0453562|none
@@ -2372,7 +1319,7 @@ Nominated for 1 Oscar. Another 12 wins & 71 nominations.|2140373|nom
 2 wins.|1272878|none
 3 wins & 9 nominations.|2334879|none
 11 wins & 17 nominations.|2023587|none
-3 wins & 6 nominations.|1702439|none
+3 wins & 7 nominations.|1702439|none
 8 nominations.|2017020|none
 3 wins & 15 nominations.|2083355|none
 1 win & 5 nominations.|1854564|none
@@ -2386,9 +1333,9 @@ Nominated for 1 Oscar. Another 10 wins & 34 nominations.|1392214|nom
 3 wins & 7 nominations.|1815862|none
 5 wins & 16 nominations.|0359950|none
 1 win.|0765446|none
-Won 3 Oscars. Another 233 wins & 312 nominations.|2024544|won
+Won 3 Oscars. Another 234 wins & 312 nominations.|2024544|won
 2 nominations.|1621039|none
-1 win & 4 nominations.|1428538|none
+3 wins & 4 nominations.|1428538|none
 6 wins & 16 nominations.|1288558|none
 3 nominations.|1821694|none
 1 win & 6 nominations.|2609758|none
@@ -2403,13 +1350,13 @@ Won 3 Oscars. Another 233 wins & 312 nominations.|2024544|won
 1 win & 1 nomination.|2243537|none
 5 nominations.|1335975|none
 Nominated for 2 Oscars. Another 15 wins & 61 nominations.|1322269|nom
-Nominated for 4 Oscars. Another 30 wins & 74 nominations.|2431286|nom
+Nominated for 4 Oscars. Another 31 wins & 75 nominations.|2431286|nom
 1 nomination.|2404311|none
 1 nomination.|1762399|none
 5 wins & 7 nominations.|1939659|none
 2 wins & 7 nominations.|1572315|none
 N/A|0790736|none
-Won 1 Oscar. Another 51 wins & 74 nominations.|2334873|won
+Won 1 Oscar. Another 53 wins & 75 nominations.|2334873|won
 1 win & 1 nomination.|2609912|none
 4 nominations.|2053463|none
 5 nominations.|0795461|none
@@ -2417,135 +1364,56 @@ Won 1 Oscar. Another 51 wins & 74 nominations.|2334873|won
 N/A|2387559|none
 1 win & 1 nomination.|1661382|none
 1 nomination.|2515086|none
-1 win & 6 nominations.|1650554|none
-Won 3 Oscars. Another 79 wins & 77 nominations.|0790636|won
+1 win & 7 nominations.|1650554|none
+Won 3 Oscars. Another 79 wins & 78 nominations.|0790636|won
 Nominated for 2 Golden Globes. Another 6 wins & 54 nominations.|1979320|none
 1 win & 2 nominations.|1517260|none
 5 wins & 20 nominations.|1213663|none
 1 win & 1 nomination.|1711425|none
-Won 1 Oscar. Another 76 wins & 174 nominations.|1798709|won
-2 nominations.|1211956|none
-1 win & 28 nominations.|2229499|none
-1 win & 4 nominations.|0790628|none
-2 nominations.|1931435|none
-1 nomination.|1171222|none
-5 wins & 30 nominations.|1727388|none
-Nominated for 1 Oscar. Another 7 wins & 14 nominations.|0816442|nom
-1 nomination.|2312718|none
-N/A|1235522|none
-9 nominations.|1559547|none
-1 nomination.|2364841|none
-N/A|1814621|none
-Nominated for 6 Oscars. Another 26 wins & 157 nominations.|1821549|nom
-1 nomination.|1904996|none
-Nominated for 1 Golden Globe. Another 9 wins & 36 nominations.|2390361|none
-N/A|2387433|none
-4 wins & 3 nominations.|2193215|none
-2 nominations.|2357129|none
-39 wins & 52 nominations.|2334649|none
-3 wins & 9 nominations.|2194499|none
-1 win & 2 nominations.|2034139|none
-Nominated for 2 Oscars. Another 44 wins & 153 nominations.|2042568|nom
-1 win & 2 nominations.|1549920|none
-2 wins & 8 nominations.|1206543|none
-N/A|2101341|none
-1 nomination.|2167202|none
-N/A|2750270|none
-1 nomination.|1532958|none
-4 wins & 5 nominations.|1333125|none
-Nominated for 1 Oscar. Another 10 wins & 28 nominations.|2304771|nom
-Nominated for 1 Oscar. Another 19 wins & 56 nominations.|2209418|nom
-15 wins & 25 nominations.|1833673|none
-2 wins & 1 nomination.|2385006|none
-3 nominations.|2002718|none
-1 nomination.|1413495|none
-1 nomination.|3195742|none
-2 wins & 5 nominations.|1425922|none
-10 wins & 30 nominations.|1714206|none
-Nominated for 2 Oscars. Another 53 wins & 50 nominations.|1462900|nom
-Nominated for 1 Oscar. Another 3 wins & 43 nominations.|2017038|nom
-2 wins & 1 nomination.|2009606|none
-4 wins & 6 nominations.|2132285|none
-N/A|3203890|none
-N/A|2218003|none
-28 wins & 55 nominations.|2112124|none
-N/A|3575750|none
-Won 1 Oscar. Another 20 wins & 24 nominations.|2396566|won
-N/A|4078098|none
-22 wins & 92 nominations.|2178470|none
-N/A|1758795|none
-1 win & 3 nominations.|2172935|none
-2 wins & 3 nominations.|1837703|none
-3 wins & 16 nominations.|2294677|none
-N/A|2051894|none
-Won 1 Oscar. Another 53 wins & 73 nominations.|2358891|won
-29 wins & 90 nominations.|2215477|none
-N/A|2349460|none
-N/A|2668508|none
-N/A|1618432|none
-1 win & 3 nominations.|1670345|none
-3 wins & 3 nominations.|1924429|none
-1 win & 7 nominations.|1869716|none
-N/A|2739338|none
-Nominated for 1 Golden Globe. Another 83 wins & 92 nominations.|2278871|none
-4 nominations.|1321511|none
-9 wins & 23 nominations.|1029231|none
-1 nomination.|1985019|none
-6 wins & 7 nominations.|2887322|none
-N/A|2691580|none
-Nominated for 1 BAFTA Film Award. Another 7 wins & 36 nominations.|2545118|none
-2 nominations.|2444946|none
-N/A|2635622|none
-4 wins & 34 nominations.|1682180|none
-50 wins & 36 nominations.|2356180|none
-3 wins & 14 nominations.|1375789|none
-3 wins.|1390398|none
-4 wins & 5 nominations.|3042926|none
-N/A|3668454|none
-2 wins & 9 nominations.|2243389|none
+Won 1 Oscar. Another 77 wins & 174 nominations.|1798709|won
 Won 1 Oscar. Another 18 wins & 38 nominations.|2179136|won
-Nominated for 1 Golden Globe. Another 15 wins & 25 nominations.|1951265|none
+Nominated for 1 Golden Globe. Another 16 wins & 26 nominations.|1951265|none
 Nominated for 2 Oscars. Another 48 wins & 92 nominations.|2015381|nom
 Nominated for 1 Oscar. Another 5 wins & 49 nominations.|1843866|nom
-Nominated for 1 Oscar. Another 68 wins & 58 nominations.|1490017|nom
+Nominated for 1 Oscar. Another 70 wins & 59 nominations.|1490017|nom
 Nominated for 1 Oscar. Another 6 wins & 45 nominations.|2310332|nom
-5 wins & 21 nominations.|2109248|none
-Nominated for 1 Oscar. Another 9 wins & 37 nominations.|1587310|nom
-Nominated for 1 Oscar. Another 13 wins & 41 nominations.|1877832|nom
+5 wins & 22 nominations.|2109248|none
+Nominated for 1 Oscar. Another 9 wins & 40 nominations.|1587310|nom
+Nominated for 1 Oscar. Another 15 wins & 42 nominations.|1877832|nom
 Won 1 Oscar. Another 13 wins & 53 nominations.|2245084|won
-Nominated for 1 Oscar. Another 14 wins & 44 nominations.|2103281|nom
+Nominated for 1 Oscar. Another 15 wins & 45 nominations.|2103281|nom
 3 wins & 29 nominations.|1872181|none
-5 wins & 27 nominations.|0831387|none
+5 wins & 28 nominations.|0831387|none
 7 wins & 22 nominations.|2294449|none
-1 win & 10 nominations.|1291150|none
-Won 1 Oscar. Another 39 wins & 131 nominations.|0816692|won
+1 win & 11 nominations.|1291150|none
+Won 1 Oscar. Another 39 wins & 134 nominations.|0816692|won
 Nominated for 1 Oscar. Another 13 wins & 59 nominations.|1646971|nom
-Nominated for 1 Oscar. Another 63 wins & 164 nominations.|2267998|nom
+Nominated for 1 Oscar. Another 64 wins & 169 nominations.|2267998|nom
 7 wins & 11 nominations.|1840309|none
 6 wins & 11 nominations.|2004420|none
 1 win & 7 nominations.|1408253|none
 1 win & 19 nominations.|2357291|none
-Nominated for 3 Oscars. Another 11 wins & 64 nominations.|2180411|nom
-8 nominations.|2872732|none
+Nominated for 3 Oscars. Another 11 wins & 69 nominations.|2180411|nom
+1 win & 8 nominations.|2872732|none
 20 wins & 12 nominations.|2582846|none
-Nominated for 3 Oscars. Another 13 wins & 25 nominations.|1809398|nom
+Nominated for 3 Oscars. Another 13 wins & 26 nominations.|1809398|nom
 1 win & 3 nominations.|2692250|none
 2 wins & 16 nominations.|0864835|none
 1 win & 5 nominations.|1253863|none
-3 wins & 10 nominations.|1790864|none
+4 wins & 10 nominations.|1790864|none
 1 win & 6 nominations.|0455944|none
-Nominated for 1 Golden Globe. Another 16 nominations.|1959490|none
+Nominated for 1 Golden Globe. Another 1 win & 16 nominations.|1959490|none
 11 wins & 34 nominations.|1631867|none
 1 nomination.|2024469|none
-2 nominations.|1929263|none
-Won 1 Oscar. Another 44 wins & 144 nominations.|2084970|won
+4 nominations.|1929263|none
+Won 1 Oscar. Another 44 wins & 150 nominations.|2084970|won
 1 win & 6 nominations.|2096672|none
 Nominated for 2 Golden Globes. Another 3 wins & 10 nominations.|1823664|none
-5 wins & 18 nominations.|2713180|none
+5 wins & 19 nominations.|2713180|none
 1 win & 6 nominations.|2103254|none
 6 nominations.|3322940|none
 3 wins & 4 nominations.|2203939|none
-6 nominations.|1911658|none
+1 win & 6 nominations.|1911658|none
 1 nomination.|1924435|none
 3 wins & 2 nominations.|2177771|none
 2 nominations.|1267297|none
@@ -2556,38 +1424,38 @@ Nominated for 2 Golden Globes. Another 3 wins & 10 nominations.|1823664|none
 1 win & 4 nominations.|1821658|none
 N/A|2528814|none
 2 wins & 1 nomination.|3210686|none
-Won 4 Oscars. Another 118 wins & 208 nominations.|2278388|won
+Won 4 Oscars. Another 122 wins & 213 nominations.|2278388|won
 6 nominations.|2980706|none
 4 wins & 1 nomination.|1234721|none
 2 wins & 3 nominations.|0829150|none
 1 win & 2 nominations.|2170439|none
 Nominated for 1 Golden Globe. Another 2 wins & 1 nomination.|2980648|none
 2 wins & 2 nominations.|2011159|none
-Won 1 Oscar. Another 55 wins & 84 nominations.|1020072|won
-3 wins & 9 nominations.|2281587|none
+Won 1 Oscar. Another 57 wins & 87 nominations.|1020072|won
+3 wins & 11 nominations.|2281587|none
 1 win.|1204977|none
 Nominated for 1 Oscar. Another 8 wins & 58 nominations.|0787474|nom
 2 nominations.|1205537|none
 2 wins & 1 nomination.|1355630|none
-Nominated for 1 Golden Globe. Another 2 wins & 27 nominations.|2262227|none
+Nominated for 1 Golden Globe. Another 3 wins & 27 nominations.|2262227|none
 1 nomination.|1826590|none
 1 win & 1 nomination.|2106361|none
 Nominated for 1 Oscar. Another 3 wins & 8 nominations.|1872194|nom
-3 wins & 2 nominations.|1742044|none
+4 wins & 2 nominations.|1742044|none
 1 win & 10 nominations.|1086772|none
 1 win & 5 nominations.|0435651|none
-Nominated for 2 Golden Globes. Another 6 wins & 17 nominations.|2170593|none
+Nominated for 2 Golden Globes. Another 6 wins & 18 nominations.|2170593|none
 1 win & 1 nomination.|2369135|none
 6 nominations.|2557490|none
 4 wins & 6 nominations.|2911666|none
-Won 4 Oscars. Another 177 wins & 255 nominations.|2562232|won
+Won 4 Oscars. Another 184 wins & 266 nominations.|2562232|won
 2 nominations.|2978462|none
 1 win & 4 nominations.|2333784|none
 2 wins & 1 nomination.|2183034|none
 2 wins & 3 nominations.|1956620|none
-Nominated for 2 Oscars. Another 9 wins & 62 nominations.|2305051|nom
+Nominated for 2 Oscars. Another 10 wins & 61 nominations.|2305051|nom
 1 win & 2 nominations.|1647668|none
-Won 1 Oscar. Another 24 wins & 114 nominations.|2980516|won
+Won 1 Oscar. Another 24 wins & 118 nominations.|2980516|won
 1 nomination.|1371150|none
 1 win & 2 nominations.|2039393|none
 2 nominations.|2473682|none
@@ -2602,167 +1470,88 @@ N/A|1972779|none
 N/A|0365907|none
 1 win & 2 nominations.|1800246|none
 Won 1 Oscar. Another 169 wins & 202 nominations.|1065073|won
-7 wins & 19 nominations.|2784678|none
-N/A|2402157|none
-1 win.|2318092|none
-8 wins & 4 nominations.|1921064|none
-2 wins & 5 nominations.|2209764|none
-2 nominations.|2870612|none
-1 nomination.|1430612|none
-1 nomination.|1418377|none
-1 win & 7 nominations.|1043726|none
-2 nominations.|2458776|none
-N/A|2205401|none
-N/A|2828996|none
-2 wins & 5 nominations.|1972571|none
-2 nominations.|2752758|none
-1 nomination.|2465146|none
-N/A|2626350|none
-Nominated for 1 Oscar. Another 4 wins & 21 nominations.|3125324|nom
-Won 1 Golden Globe. Another 1 win & 16 nominations.|1126590|none
-N/A|3438386|none
-4 nominations.|2467046|none
-3 wins & 6 nominations.|0458481|none
-Won 3 Oscars. Another 84 wins & 125 nominations.|2582802|won
-2 nominations.|1837709|none
-Nominated for 5 Oscars. Another 12 wins & 72 nominations.|1100089|nom
-6 nominations.|3322940|none
-3 wins & 4 nominations.|1600196|none
-2 nominations.|3231010|none
-2 wins & 11 nominations.|2338151|none
-1 win & 1 nomination.|2870756|none
-2 wins & 5 nominations.|1742334|none
-N/A|3014666|none
-6 nominations.|2235779|none
-Nominated for 2 Oscars. Another 14 wins & 89 nominations.|1791528|nom
-2 nominations.|1686821|none
-26 wins & 11 nominations.|3005242|none
-1 win & 3 nominations.|2788710|none
-N/A|4003774|none
-Nominated for 1 Golden Globe. Another 13 wins & 44 nominations.|2937898|none
-5 wins & 2 nominations.|1621046|none
-4 wins & 10 nominations.|1571249|none
-14 wins & 25 nominations.|2235108|none
-N/A|4219294|none
-1 win & 1 nomination.|2908856|none
-Nominated for 4 Oscars. Another 19 wins & 55 nominations.|2473794|nom
-9 wins & 27 nominations.|2234003|none
-6 nominations.|2870708|none
-49 wins & 59 nominations.|3612616|none
-N/A|3692118|none
-N/A|3324286|none
-7 nominations.|2771372|none
-N/A|1726592|none
-1 win & 1 nomination.|2752688|none
-9 wins & 28 nominations.|2910274|none
-1 nomination.|2967006|none
-1 win.|2326574|none
-N/A|3532608|none
-Won 1 Oscar. Another 42 wins & 34 nominations.|4044364|won
-4 wins & 2 nominations.|4009460|none
-N/A|2799166|none
-2 wins & 3 nominations.|2652092|none
-2 wins & 9 nominations.|2265171|none
-6 wins & 17 nominations.|3541262|none
-1 win & 6 nominations.|2905838|none
-5 wins & 12 nominations.|2372222|none
-1 win & 4 nominations.|1216491|none
-4 wins & 14 nominations.|2398231|none
-12 wins & 12 nominations.|3812366|none
-2 wins & 17 nominations.|2639344|none
-1 win & 20 nominations.|2372678|none
-N/A|3230092|none
-N/A|3517936|none
-1 win & 4 nominations.|2618368|none
-1 win & 4 nominations.|3099498|none
-N/A|1761005|none
-N/A|3741860|none
-1 nomination.|2381335|none
-Nominated for 1 Golden Globe. Another 8 wins & 16 nominations.|3169706|none
-Nominated for 1 Oscar. Another 38 wins & 74 nominations.|2737050|nom
-Nominated for 1 Golden Globe. Another 31 wins & 34 nominations.|3630276|none
-Nominated for 5 Oscars. Another 30 wins & 95 nominations.|2488496|nom
-4 wins & 52 nominations.|0369610|none
-2 wins & 37 nominations.|2395427|none
-Won 1 Oscar. Another 79 wins & 90 nominations.|2096673|won
-Nominated for 1 Golden Globe. Another 17 wins & 24 nominations.|2820852|none
-Nominated for 1 BAFTA Film Award. Another 16 nominations.|2293640|none
-7 wins & 16 nominations.|1951266|none
-Nominated for 7 Oscars. Another 33 wins & 164 nominations.|3659388|nom
-Nominated for 1 Oscar. Another 7 wins & 24 nominations.|1661199|nom
-Won 1 Oscar. Another 7 wins & 23 nominations.|2379713|won
-2 wins & 17 nominations.|2381249|none
-8 wins & 14 nominations.|2848292|none
-Won 3 Oscars. Another 73 wins & 151 nominations.|1663202|won
-Nominated for 1 BAFTA Film Award. Another 1 win & 27 nominations.|0478970|none
-2 wins & 7 nominations.|2224026|none
-1 win & 7 nominations.|2510894|none
-Nominated for 1 Oscar. Another 7 wins & 17 nominations.|2322441|nom
-4 nominations.|2279373|none
-Nominated for 1 Oscar. Another 22 wins & 36 nominations.|1398426|nom
+Nominated for 5 Oscars. Another 49 wins & 108 nominations.|2488496|nom
+6 wins & 53 nominations.|0369610|none
+5 wins & 42 nominations.|2395427|none
+Won 1 Oscar. Another 92 wins & 95 nominations.|2096673|won
+Nominated for 1 Golden Globe. Another 22 wins & 26 nominations.|2820852|none
+Nominated for 1 BAFTA Film Award. Another 1 win & 18 nominations.|2293640|none
+17 wins & 28 nominations.|1951266|none
+Nominated for 7 Oscars. Another 33 wins & 174 nominations.|3659388|nom
+Nominated for 1 Oscar. Another 8 wins & 28 nominations.|1661199|nom
+Won 1 Oscar. Another 7 wins & 30 nominations.|2379713|won
+3 wins & 18 nominations.|2381249|none
+9 wins & 14 nominations.|2848292|none
+Won 3 Oscars. Another 75 wins & 163 nominations.|1663202|won
+Nominated for 1 BAFTA Film Award. Another 2 wins & 29 nominations.|0478970|none
+2 wins & 8 nominations.|2224026|none
+1 win & 10 nominations.|2510894|none
+Nominated for 1 Oscar. Another 9 wins & 18 nominations.|2322441|nom
+1 win & 6 nominations.|2279373|none
+Nominated for 1 Oscar. Another 24 wins & 39 nominations.|1398426|nom
 10 nominations.|2126355|none
-Won 6 Oscars. Another 186 wins & 183 nominations.|1392190|won
-1 win & 3 nominations.|1528854|none
-2 wins & 6 nominations.|2908446|none
-Nominated for 1 Golden Globe. Another 1 win & 42 nominations.|2452042|none
-Nominated for 1 Golden Globe. Another 5 wins & 38 nominations.|1979388|none
-Nominated for 2 Golden Globes. Another 3 wins & 17 nominations.|3079380|none
-Nominated for 2 Golden Globes. Another 5 wins & 21 nominations.|3152624|none
-Nominated for 1 Oscar. Another 43 wins & 53 nominations.|3076658|nom
-1 win & 15 nominations.|1964418|none
+Won 6 Oscars. Another 210 wins & 193 nominations.|1392190|won
+1 win & 4 nominations.|1528854|none
+2 wins & 7 nominations.|2908446|none
+Nominated for 1 Golden Globe. Another 1 win & 44 nominations.|2452042|none
+Nominated for 1 Golden Globe. Another 5 wins & 39 nominations.|1979388|none
+Nominated for 2 Golden Globes. Another 4 wins & 19 nominations.|3079380|none
+Nominated for 2 Golden Globes. Another 5 wins & 22 nominations.|3152624|none
+Nominated for 1 Oscar. Another 45 wins & 55 nominations.|3076658|nom
+2 wins & 16 nominations.|1964418|none
 1 nomination.|2561572|none
-6 nominations.|1340138|none
+7 nominations.|1340138|none
 4 nominations.|1850457|none
 1 win & 4 nominations.|2974918|none
-2 nominations.|4046784|none
+2 wins & 5 nominations.|4046784|none
 4 nominations.|2637276|none
 3 nominations.|1051904|none
-1 win & 9 nominations.|2120120|none
-1 win & 4 nominations.|2361509|none
-Won 1 Oscar. Another 25 wins & 86 nominations.|3682448|won
+2 wins & 9 nominations.|2120120|none
+1 win & 6 nominations.|2361509|none
+Won 1 Oscar. Another 30 wins & 92 nominations.|3682448|won
 1 win & 9 nominations.|3450650|none
-Won 1 Oscar. Another 31 wins & 71 nominations.|1596363|won
+Won 1 Oscar. Another 34 wins & 75 nominations.|1596363|won
 N/A|3832914|none
 2 wins & 1 nomination.|2268016|none
 1 win & 10 nominations.|3567288|none
 2 wins & 3 nominations.|0884732|none
-4 wins & 18 nominations.|1355683|none
+5 wins & 20 nominations.|1355683|none
 1 win & 3 nominations.|1524930|none
 2 wins & 3 nominations.|3862750|none
-Nominated for 1 Oscar. Another 4 wins & 18 nominations.|2446980|nom
-7 wins & 3 nominations.|1502712|none
-Won 1 Oscar. Another 30 wins & 99 nominations.|3460252|won
+Nominated for 1 Oscar. Another 5 wins & 19 nominations.|2446980|nom
+8 wins & 4 nominations.|1502712|none
+Won 1 Oscar. Another 32 wins & 103 nominations.|3460252|won
 2 nominations.|2381941|none
 8 nominations.|1798684|none
-2 wins & 6 nominations.|3195644|none
-3 nominations.|1029360|none
-2 wins & 14 nominations.|1617661|none
-Nominated for 3 Oscars. Another 11 wins & 124 nominations.|3397884|nom
-4 wins & 2 nominations.|1638355|none
-Won 2 Oscars. Another 109 wins & 122 nominations.|1895587|won
+2 wins & 7 nominations.|3195644|none
+1 win & 4 nominations.|1029360|none
+4 wins & 14 nominations.|1617661|none
+Nominated for 3 Oscars. Another 13 wins & 136 nominations.|3397884|nom
+4 wins & 4 nominations.|1638355|none
+Won 2 Oscars. Another 113 wins & 125 nominations.|1895587|won
 3 wins & 2 nominations.|2097298|none
-1 win & 10 nominations.|4178092|none
+2 wins & 9 nominations.|4178092|none
 7 nominations.|2719848|none
 1 nomination.|3530002|none
-1 win & 9 nominations.|3850590|none
+2 wins & 8 nominations.|3850590|none
 1 nomination.|3369806|none
 7 nominations.|1655441|none
-Nominated for 3 Oscars. Another 30 wins & 141 nominations.|2381111|nom
+Nominated for 3 Oscars. Another 32 wins & 141 nominations.|2381111|nom
 1 win & 4 nominations.|2726560|none
-1 win & 3 nominations.|3181822|none
+1 win & 4 nominations.|3181822|none
 7 nominations.|3332064|none
 4 nominations.|2967224|none
 Nominated for 1 Golden Globe. Another 4 wins & 14 nominations.|3322364|none
-1 win & 7 nominations.|1666801|none
+1 win & 8 nominations.|1666801|none
 5 nominations.|2404425|none
 1 nomination.|2555736|none
 N/A|4836716|none
 N/A|1674771|none
 3 wins & 2 nominations.|3622592|none
-1 nomination.|1823672|none
-1 win & 33 nominations.|2554274|none
+3 nominations.|1823672|none
+6 wins & 33 nominations.|2554274|none
 1 nomination.|1178665|none
-N/A|2058673|none
+2 nominations.|2058673|none
 N/A|2752772|none
 N/A|1618442|none
 N/A|1781922|none
@@ -2770,94 +1559,108 @@ N/A|1781922|none
 N/A|2199571|none
 2 nominations.|2279339|none
 N/A|2918436|none
-Won 1 Oscar. Another 59 wins & 132 nominations.|0470752|won
-1 win & 2 nominations.|1390411|none
+Won 1 Oscar. Another 64 wins & 136 nominations.|0470752|won
+1 win & 5 nominations.|1390411|none
 1 nomination.|2309260|none
 N/A|2679042|none
 N/A|2436386|none
 1 win & 6 nominations.|1243974|none
-3 nominations.|1741273|none
-Nominated for 1 Oscar. Another 1 win & 48 nominations.|2872750|nom
-N/A|5161832|none
-2 nominations.|2473510|none
-Nominated for 2 Oscars. Another 20 wins & 103 nominations.|2080374|nom
-15 nominations.|3168230|none
-6 wins & 20 nominations.|3850214|none
-1 win & 1 nomination.|3660770|none
-N/A|2938956|none
-Won 1 Oscar. Another 97 wins & 118 nominations.|3170832|won
-N/A|3576352|none
-N/A|3316948|none
-1 nomination.|4183692|none
-6 wins.|2503944|none
-N/A|4056738|none
-Nominated for 6 Oscars. Another 59 wins & 214 nominations.|2402927|nom
-1 nomination.|4191054|none
-2 nominations.|2637294|none
-N/A|2140379|none
-6 nominations.|2935476|none
-1 win & 2 nominations.|2006295|none
-Won 1 Oscar. Another 26 wins & 69 nominations.|0810819|won
-N/A|2515034|none
-N/A|2358925|none
-2 wins & 14 nominations.|3488710|none
-Nominated for 1 Golden Globe. Another 1 win & 3 nominations.|3722070|none
-1 nomination.|4643580|none
-Won 1 Oscar. Another 43 wins & 37 nominations.|2870648|won
-14 wins.|3863552|none
-1 nomination.|3819668|none
-2 nominations.|2717822|none
-Nominated for 1 Oscar. Another 3 wins & 36 nominations.|3203606|nom
-4 nominations.|3045616|none
-7 nominations.|3236120|none
-1 nomination.|1018765|none
-Nominated for 1 Golden Globe. Another 3 wins & 8 nominations.|4270516|none
-15 wins & 26 nominations.|2582496|none
-1 win & 7 nominations.|2631186|none
-25 wins & 6 nominations.|3735246|none
-1 nomination.|1810683|none
-3 wins & 1 nomination.|1976009|none
-Nominated for 1 Golden Globe. Another 1 win & 2 nominations.|1772288|none
-1 win.|4535650|none
-N/A|4337690|none
-3 nominations.|2273657|none
-14 wins & 11 nominations.|3077214|none
-2 wins.|3595298|none
-Nominated for 1 Oscar. Another 19 wins & 47 nominations.|3544082|nom
-2 nominations.|3715320|none
-Nominated for 1 Oscar. Another 18 wins & 66 nominations.|2401878|nom
-1 nomination.|1727776|none
-N/A|4357170|none
-2 wins & 2 nominations.|3233418|none
-N/A|3787590|none
-N/A|3654580|none
-N/A|5135876|none
-3 wins & 3 nominations.|4110568|none
-N/A|4296800|none
-2 wins & 1 nomination.|2140465|none
-N/A|3164256|none
-3 wins & 15 nominations.|3416744|none
-Nominated for 1 Oscar. Another 13 wins & 36 nominations.|3312830|nom
-Nominated for 1 BAFTA Film Award. Another 4 wins & 11 nominations.|3065132|none
-4 wins & 12 nominations.|4594834|none
-N/A|3268668|none
-1 win & 3 nominations.|3859076|none
-1 win & 11 nominations.|2872462|none
-N/A|4383208|none
-4 wins & 11 nominations.|2545428|none
-1 win.|3719896|none
-2 nominations.|3614530|none
-2 wins.|3148502|none
-Nominated for 5 Oscars. Another 30 wins & 95 nominations.|2488496|nom
-N/A|4861744|none
-4 wins & 10 nominations.|3569230|none
-15 wins & 2 nominations.|3767372|none
-N/A|1524575|none
-Won 1 Oscar. Another 45 wins & 38 nominations.|3808342|won
-N/A|5181838|none
-N/A|4691166|none
-15 wins & 31 nominations.|3172532|none
-1 nomination.|2302966|none
-2 wins & 5 nominations.|4701702|none
-1 nomination.|2802136|none
-1 win & 6 nominations.|1243974|none
+2 wins & 12 nominations.|2277860|none
+2 wins & 13 nominations.|3498820|none
+1 win & 1 nomination.|2709768|none
+7 wins & 20 nominations.|3040964|none
+4 wins & 19 nominations.|1431045|none
+Nominated for 1 Golden Globe. Another 5 wins & 23 nominations.|2948356|none
+1 win & 9 nominations.|2975590|none
+4 wins & 7 nominations.|1386697|none
+1 win & 7 nominations.|1211837|none
+1 nomination.|3183660|none
+1 nomination.|3748528|none
+1 win & 2 nominations.|3521164|none
+6 nominations.|4196776|none
+6 nominations.|2660888|none
+4 nominations.|3385516|none
+2 wins & 9 nominations.|1679335|none
+2 nominations.|2267968|none
+7 nominations.|1289401|none
+1 win & 5 nominations.|1489889|none
+N/A|0918940|none
+2 wins & 5 nominations.|3263904|none
+1 win & 1 nomination.|4651520|none
+2 nominations.|1985949|none
+1 win & 2 nominations.|1628841|none
+1 nomination.|3065204|none
+3 nominations.|1700841|none
+1 nomination.|2404435|none
+6 nominations.|2869728|none
+3 nominations.|4160708|none
+3 wins & 21 nominations.|2543164|none
+2 nominations.|1935859|none
+N/A|2140479|none
+2 nominations.|3949660|none
+1 nomination.|4094724|none
+1 win & 4 nominations.|2567026|none
+1 win.|2788732|none
+1 win.|3631112|none
+N/A|5325452|none
+4 nominations.|1179933|none
+2 wins & 1 nomination.|4624424|none
+N/A|4786282|none
+1 win & 5 nominations.|3410834|none
+3 nominations.|3110958|none
+1 win.|3416828|none
+3 wins & 11 nominations.|2119532|none
+1 nomination.|2702724|none
+N/A|3300542|none
+1 win & 1 nomination.|4257926|none
+1 win & 1 nomination.|1860357|none
+N/A|3760922|none
+N/A|3393786|none
+1 win & 2 nominations.|2674426|none
+2 wins & 5 nominations.|3691740|none
+2 wins & 2 nominations.|4438848|none
+2 nominations.|4052882|none
+3 nominations.|3628584|none
+1 nomination.|4172430|none
+1 win & 13 nominations.|4302938|none
+6 nominations.|2381991|none
+1 win & 3 nominations.|0803096|none
+2 nominations.|1292566|none
+N/A|2823054|none
+1 nomination.|2005151|none
+N/A|4649416|none
+N/A|2241351|none
+N/A|3640424|none
+1 nomination.|3531824|none
+N/A|3231054|none
+3 nominations.|3799694|none
+1 nomination.|3882082|none
+N/A|1711525|none
+N/A|1860213|none
+N/A|4361050|none
+1 nomination.|2304933|none
+N/A|3062096|none
+2 nominations.|4824302|none
+4 nominations.|2404233|none
+3 wins & 1 nomination.|0475290|none
+N/A|1389139|none
+2 wins & 5 nominations.|1608290|none
+2 wins.|2025690|none
+Nominated for 4 Golden Globes. Another 3 wins & 17 nominations.|4136084|none
+Nominated for 3 Golden Globes. Another 5 wins & 21 nominations.|2582782|none
+N/A|3387542|none
+N/A|2638144|none
+N/A|6186362|none
+N/A|1473832|none
+N/A|4669186|none
+N/A|3553442|none
+1 win & 4 nominations.|3774114|none
+N/A|3522806|none
+1 win.|1124037|none
+N/A|1540011|none
+N/A|4824308|none
+1 win & 2 nominations.|4139124|none
+2 nominations.|4981636|none
+N/A|4383594|none
+1 nomination.|3499096|none
+N/A|3797868|none
